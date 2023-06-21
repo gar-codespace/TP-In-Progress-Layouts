@@ -439,8 +439,8 @@
 <jxn t="3" id="1061" pt="10190,18324"></jxn>
 <jxn t="3" id="1062" pt="9936,18083"></jxn>
 <jxn t="3" id="1063" pt="9584,17707"></jxn>
-<jxn t="3" id="1144" pt="2506,2498"></jxn>
-<jxn t="3" id="1145" pt="2740,3665"></jxn>
+<jxn t="3" id="1144" pt="2506,2497"></jxn>
+<jxn t="3" id="1145" pt="2740,3664"></jxn>
 <jxn t="3" id="1148" tag="4" pt="2481,3661"></jxn>
 <jxn t="3" id="1149" pt="2268,4488"></jxn>
 <jxn t="3" id="1152" pt="2128,5008"></jxn>
@@ -2278,7 +2278,7 @@
 <jxn t="3" id="391" pt="51746,24942"></jxn>
 <jxn t="3" id="523" pt="52126,24305"></jxn>
 <jxn t="3" id="906" pt="52356,23766"></jxn>
-<jxn t="3" id="907" pt="52493,23372"></jxn>
+<jxn t="3" id="907" pt="52493,23372" swp="1"></jxn>
 <jxn t="3" id="1359" flags="1048576" pt="50335,27007"></jxn>
 <jxn t="3" id="1363" pt="51613,25455"></jxn>
 <jxn t="3" id="1366" pt="52188,24641"></jxn>
@@ -2954,7 +2954,7 @@
 <str t="1" id="1054" rect="9936,18083,10190,18324" js="1061" jn="1062"></str>
 <str t="1" id="1055" rect="9383,17454,9584,17707" js="1054" jn="1063"></str>
 <str t="1" id="1056" rect="9584,17707,9936,18083" js="1063" jn="1062"></str>
-<str t="1" id="1135" rect="2482,2503,2764,3659" tag="V71" js="1144" jn="1145"></str>
+<str t="1" id="1135" rect="2506,2498,2740,3665" tag="V71" js="1144" jn="1145"></str>
 <str t="1" id="1137" rect="2268,3661,2481,4488" tag="V71" js="1148" jn="1149"></str>
 <str t="1" id="1139" rect="2128,4488,2268,5008" tag="V71" js="1149" jn="1152"></str>
 <str t="1" id="1140" rect="2023,5008,2128,5450" tag="V71" js="1152" jn="1153"></str>
@@ -3570,7 +3570,7 @@
 <str t="1" id="1943" rect="13019,16744,13206,17261" tag="S72" js="1702" jn="1941"></str>
 <str t="1" id="1951" rect="12569,15445,13019,16744" tag="S72" js="1941" jn="1942"></str>
 <str t="1" id="1952" rect="11494,12236,12569,15445" tag="S72" js="1942" jn="1951"></str>
-<str t="1" id="1519" rect="12816,10633,13388,12352" tag="S74" js="338" jn="1309"></str>
+<str t="1" id="1519" rect="12240,11214,13964,11772" tag="S74" js="338" jn="1309"></str>
 <str t="1" id="1521" rect="22198,21682,22385,21731" js="1387" jn="2381"></str>
 <str t="1" id="1746" rect="20949,21195,21541,21455" js="1411" jn="1749"></str>
 <str t="1" id="1953" rect="20287,20949,20949,21195" js="1749" jn="1952"></str>
@@ -5937,9 +5937,9 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0951947" ctr="x:18019,y:19995" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0951947" ctr="x:18019,y:20006" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="3945" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="3991" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForPersonalizedSettings = 544
@@ -6698,7 +6698,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>172,9,472,655</wndrect>
+<wndrect>28,20,1078,666</wndrect>
 </note>
 </notes>
 </layout>
