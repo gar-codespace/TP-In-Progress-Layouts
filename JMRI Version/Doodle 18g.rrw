@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Doodle 18g" lid="DO1" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="10.5048" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
+<layout name="Doodle 18g" lid="DO1" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="13.131" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="32245,28393"></jxn>
@@ -1313,9 +1313,6 @@
 <jxn t="3" id="1815" pt="8168,16759"></jxn>
 <jxn t="3" id="1842" pt="13339,21353"></jxn>
 <jxn t="3" id="1843" pt="13359,21347"></jxn>
-<jxn t="3" id="2182" pt="11247,21595"></jxn>
-<jxn t="3" id="2183" pt="11603,21505"></jxn>
-<jxn t="3" id="2184" pt="11752,21792"></jxn>
 <jxn t="3" id="54" pt="43279,5284"></jxn>
 <jxn t="3" id="392" pt="15441,18754"></jxn>
 <jxn t="3" id="393" pt="15257,18894"></jxn>
@@ -1328,13 +1325,10 @@
 <jxn t="3" id="516" pt="9342,19056"></jxn>
 <jxn t="3" id="438" pt="28554,36482"></jxn>
 <jxn t="3" id="441" pt="28985,36567"></jxn>
-<jxn t="3" id="390" pt="12516,21876"></jxn>
-<jxn t="3" id="527" pt="10977,21294"></jxn>
+<jxn t="3" id="390" pt="25410,26907"></jxn>
 <jxn t="3" id="530" pt="13895,33931"></jxn>
 <jxn t="3" id="968" pt="14107,33784"></jxn>
 <jxn t="3" id="969" pt="14305,33628"></jxn>
-<jxn t="3" id="1273" pt="12079,21676"></jxn>
-<jxn t="3" id="1939" pt="12200,21917"></jxn>
 <jxn t="3" id="61" pt="50093,22522"></jxn>
 <jxn t="3" id="2626" pt="27419,15118"></jxn>
 <jxn t="3" id="2645" pt="27817,15527"></jxn>
@@ -2189,7 +2183,7 @@
 <jxn t="3" id="952" pt="48135,20586"></jxn>
 <jxn t="3" id="953" pt="47759,20027"></jxn>
 <jxn t="3" id="954" pt="47204,19436"></jxn>
-<jxn t="3" id="955" pt="47738,20005" swp="1"></jxn>
+<jxn t="3" id="955" pt="47738,20005"></jxn>
 <jxn t="3" id="956" pt="47047,19185"></jxn>
 <jxn t="3" id="957" pt="46703,18794"></jxn>
 <jxn t="3" id="958" pt="46376,18456"></jxn>
@@ -2272,13 +2266,13 @@
 <jxn t="3" id="45" pt="42335,6776"></jxn>
 <jxn t="3" id="46" pt="41864,7265"></jxn>
 <jxn t="3" id="47" pt="41435,7843"></jxn>
-<jxn t="3" id="56" pt="10649,21451"></jxn>
+<jxn t="3" id="56" pt="30093,28424"></jxn>
 <jxn t="3" id="104" flags="1048576" pt="50198,26848"></jxn>
 <jxn t="3" id="106" pt="51401,25402"></jxn>
 <jxn t="3" id="391" pt="51746,24942"></jxn>
 <jxn t="3" id="523" pt="52126,24305"></jxn>
 <jxn t="3" id="906" pt="52356,23766"></jxn>
-<jxn t="3" id="907" pt="52493,23372" swp="1"></jxn>
+<jxn t="3" id="907" pt="52493,23372"></jxn>
 <jxn t="3" id="1359" flags="1048576" pt="50335,27007"></jxn>
 <jxn t="3" id="1363" pt="51613,25455"></jxn>
 <jxn t="3" id="1366" pt="52188,24641"></jxn>
@@ -2535,12 +2529,26 @@
 <jxn t="3" id="1187" pt="43777,13775"></jxn>
 <jxn t="3" id="1188" pt="43424,13236"></jxn>
 <jxn t="3" id="1207" pt="43441,13771"></jxn>
-<jxn t="3" id="59" pt="12597,22135"></jxn>
-<jxn t="3" id="376" pt="10399,21151"></jxn>
-<jxn t="3" id="908" pt="10064,21330"></jxn>
-<jxn t="3" id="1221" pt="9817,21009"></jxn>
+<jxn t="3" id="59" pt="30118,28317"></jxn>
+<jxn t="3" id="376" pt="25379,27035"></jxn>
+<jxn t="3" id="908" pt="30005,28648"></jxn>
+<jxn t="3" id="1221" pt="25320,27301"></jxn>
 <jxn t="3" id="1222" pt="13977,28170"></jxn>
 <jxn t="3" id="1267" pt="14144,28104"></jxn>
+<jxn t="3" id="1276" pt="21636,24900"></jxn>
+<jxn t="3" id="1313" pt="30602,27516"></jxn>
+<jxn t="3" id="1314" pt="30563,27628"></jxn>
+<jxn t="3" id="1315" pt="20429,24675"></jxn>
+<jxn t="3" id="1316" pt="30528,27734"></jxn>
+<jxn t="3" id="1317" pt="9946,21753"></jxn>
+<jxn t="3" id="1318" pt="30496,27829"></jxn>
+<jxn t="3" id="1319" pt="9872,21873"></jxn>
+<jxn t="3" id="1320" pt="30465,27926"></jxn>
+<jxn t="3" id="1321" pt="18882,24609"></jxn>
+<jxn t="3" id="1322" pt="30444,28025"></jxn>
+<jxn t="3" id="1323" pt="18062,24503"></jxn>
+<jxn t="3" id="527" pt="25313,27142"></jxn>
+<jxn t="3" id="1273" pt="30051,28541"></jxn>
 </jxns>
 <trks>
 <str t="1" id="1" rect="32245,27542,32810,28393" js="1" jn="2"></str>
@@ -3838,10 +3846,7 @@
 <str t="1" id="1839" rect="8056,16487,8168,16759" js="1815" jn="1081"></str>
 <str t="1" id="1840" rect="13339,21347,13359,21353" js="1842" jn="1843"></str>
 <str t="1" id="1841" rect="11924,20939,13359,21347" js="1789" jn="1843"></str>
-<str t="1" id="2304" rect="11247,21505,11603,21595" tag="D13" js="2182" jn="2183"></str>
-<str t="1" id="2306" rect="11603,21505,11752,21792" tag="D14" js="2183" jn="2184"></str>
 <str t="1" id="107" rect="43279,5024,43809,5284" tag="N1" js="54" jn="2096"></str>
-<str t="1" id="377" rect="11752,21676,12079,21792" tag="D12" js="2184" jn="1273"></str>
 <str t="1" id="382" rect="15257,18754,15441,18894" flags="65536" js="392" jn="393"></str>
 <str t="1" id="383" rect="15257,18894,15314,18970" flags="65536" js="393" jn="394"></str>
 <str t="1" id="384" rect="15314,18825,15528,18970" flags="65536" js="394" jn="395"></str>
@@ -3854,14 +3859,11 @@
 <str t="1" id="507" rect="8975,18425,9333,19080" js="1698" jn="1699"></str>
 <str t="1" id="509" rect="8668,17845,8975,18425" js="1699" jn="1813"></str>
 <str t="1" id="433" rect="28554,36482,28985,36567" flags="65536" js="441" jn="438"></str>
-<str t="1" id="514" rect="10977,21294,11247,21595" tag="D11" js="2182" jn="527"></str>
 <str t="1" id="964" rect="28399,35866,29189,36057" js="419" jn="418"></str>
 <str t="1" id="965" rect="13626,33931,13895,34071" js="1272" jn="530"></str>
 <str t="1" id="1260" rect="13895,33784,14107,33931" js="530" jn="968"></str>
 <str t="1" id="1261" rect="14107,33628,14305,33784" js="968" jn="969"></str>
 <str t="1" id="1939" rect="14305,33497,14436,33628" js="969" jn="1274"></str>
-<str t="1" id="2342" rect="12200,21876,12516,21917" tag="C76" js="1939" jn="390"></str>
-<str t="1" id="380" rect="12079,21676,12200,21917" tag="D16" js="1939" jn="1273"></str>
 <str t="1" id="3" rect="50093,21523,50599,22522" js="61" jn="6"></str>
 <str t="1" id="3109" rect="27419,15118,27817,15527" js="2626" jn="2645"></str>
 <str t="1" id="3110" rect="27817,15527,28358,15951" js="2645" jn="2716"></str>
@@ -4813,7 +4815,6 @@
 <str t="1" id="381" rect="9520,8744,10120,9464" js="713" jn="700"></str>
 <str t="1" id="410" rect="9484,8744,10120,9584" js="700" jn="721"></str>
 <str t="1" id="708" rect="18901,13904,19019,14257" js="3091" jn="3616"></str>
-<str t="1" id="712" rect="10649,21294,10977,21451" tag="D15" js="527" jn="56"></str>
 <str t="1" id="897" rect="50198,25402,51401,26848" js="104" jn="106"></str>
 <str t="1" id="898" rect="51401,24942,51746,25402" js="106" jn="391"></str>
 <str t="1" id="1367" rect="51746,24305,52126,24942" js="391" jn="523"></str>
@@ -5078,14 +5079,20 @@
 <str t="1" id="1320" rect="43176,12763,43424,13236" tag="E3" js="1188" jn="1135"></str>
 <str t="1" id="1321" rect="43441,13771,43866,14337" tag="E4" js="1069" jn="1207"></str>
 <str t="1" id="1322" rect="43211,13395,43441,13771" tag="E4" js="1207" jn="1138"></str>
-<str t="1" id="1323" rect="12516,21876,12597,22135" tag="S75" js="390" jn="59"></str>
-<str t="1" id="1324" rect="10399,21151,10649,21451" tag="V1" js="56" jn="376"></str>
-<str t="1" id="1325" rect="10064,21151,10399,21330" tag="J1" js="376" jn="908"></str>
-<str t="1" id="1326" rect="9817,21009,10064,21330" tag="P1" js="908" jn="1221"></str>
+<str t="1" id="1323" rect="25410,26907,30118,28317" tag="S75" js="390" jn="59"></str>
+<str t="1" id="1324" rect="25379,27035,30093,28424" tag="V1" js="56" jn="376"></str>
+<str t="1" id="1326" rect="25320,27301,30005,28648" tag="P1" js="908" jn="1221"></str>
 <str t="1" id="1327" rect="13977,28170,14614,29510" tag="PF" js="1222" jn="466"></str>
 <str t="1" id="1328" rect="14144,28104,15684,31327" tag="PF" js="1267" jn="464"></str>
 <str t="1" id="457" rect="14614,29510,14848,30152" js="1282" jn="466"></str>
 <str t="1" id="1269" rect="14614,29510,15623,31620" js="466" jn="467"></str>
+<str t="1" id="1329" rect="21636,24900,30602,27516" tag="D11" js="1276" jn="1313"></str>
+<str t="1" id="514" rect="20429,24675,30563,27628" tag="D12" js="1314" jn="1315"></str>
+<str t="1" id="377" rect="9946,21753,30528,27734" tag="D13" js="1316" jn="1317"></str>
+<str t="1" id="1330" rect="9872,21873,30496,27829" tag="D14" js="1318" jn="1319"></str>
+<str t="1" id="1331" rect="18882,24609,30465,27926" tag="D15" js="1320" jn="1321"></str>
+<str t="1" id="1332" rect="18062,24503,30444,28025" tag="D16" js="1322" jn="1323"></str>
+<str t="1" id="380" rect="25313,27142,30051,28541" tag="J1" js="527" jn="1273"></str>
 </trks>
 <ctrs>
 <ttb t="12" id="1" rect="2028,2486,3218,3676" tag="Branch Line" pt="2623,3081" radius="595" ttrk="1135" scnobj="TTBridge1 ID:1"></ttb>
@@ -5096,7 +5103,7 @@
 <scn t="16" id="2" rect="12195,10586,14009,12400" otype="1" ang="18.605" bktype="3" fill="R:255,G:255,B:192" nodistort="true" bmap="o2o_scenery\TTBridge2.png" bktype_l="1" fill_l="R:128,G:128,B:128"></scn>
 </scenery>
 </tracks>
-<trains selno="0" trk="0" dists="0">
+<trains selno="50" trk="0" dists="0">
 <trn t="6" id="10" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="1" rect="48999,17195,49757,17711" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 053" dest="~" collname="o2o Locomotives" cartype="K4s" trk="396" dists="978" gs="1"></car>
@@ -5119,15 +5126,15 @@
 </trn>
 <trn t="6" id="33" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="345" rect="34621,11608,35373,12370" flags="4460544" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="AT&amp;SF 8501" loaded="1" loadname="steel products" dest="M11" collname="North American freight" cartype="box x23 prr" trk="4172" dists="2200"></car>
-<car t="5" id="346" rect="34249,11228,34905,11890" flags="4460544" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="NYNH&amp;H 4320" loaded="1" loadname="steel rods" dest="M11" collname="North American freight" cartype="gond40 prr" trk="4172" dists="1599"></car>
-<car t="5" id="347" rect="33877,10848,34533,11510" flags="4456448" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="PL 3670" loaded="1" loadname="steel rods" dest="M11" collname="North American freight" cartype="gond40 gra prr" trk="4172" dists="1067"></car>
+<car t="5" id="345" rect="34621,11608,35373,12370" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="AT&amp;SF 8501" loadname="steel products" dest="JS" collname="North American freight" cartype="box x23 prr" trk="4172" dists="2200"></car>
+<car t="5" id="346" rect="34249,11228,34905,11890" flags="266240" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="NYNH&amp;H 4320" loadname="steel rods" dest="JS" collname="North American freight" cartype="gond40 prr" trk="4172" dists="1599"></car>
+<car t="5" id="347" rect="33877,10848,34533,11510" flags="262144" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="PL 3670" loadname="steel rods" dest="JS" collname="North American freight" cartype="gond40 gra prr" trk="4172" dists="1067"></car>
 </cars>
 </trn>
 <trn t="6" id="34" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="348" rect="29805,8092,30463,8752" flags="4460544" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;O 1876" loaded="1" loadname="Empty" dest="M11" collname="North American freight" cartype="hopper 2bay prr2" trk="4120" dists="1157"></car>
-<car t="5" id="349" rect="29430,7715,30088,8375" flags="4460544" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="PRR 8860" loaded="1" loadname="Empty" dest="M11" collname="North American freight" cartype="hopper 2bay prr2" trk="4120" dists="625"></car>
+<car t="5" id="348" rect="29805,8092,30463,8752" flags="266240" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;O 1876" loadname="coal2" dest="JC" collname="North American freight" cartype="hopper 2bay prr2" trk="4120" dists="1157"></car>
+<car t="5" id="349" rect="29430,7715,30088,8375" flags="266240" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="PRR 8860" loadname="coal2" dest="JC" collname="North American freight" cartype="hopper 2bay prr2" trk="4120" dists="625"></car>
 </cars>
 </trn>
 <trn t="6" id="31" dspeed="0" horntype="0">
@@ -5163,18 +5170,18 @@
 </trn>
 <trn t="6" id="38" dspeed="0" rev="1" horntype="0">
 <cars>
-<car t="5" id="7" rect="2207,12019,2557,12749" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6993" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="1860" gs="1"></car>
-<car t="5" id="8" rect="2245,12550,2595,13280" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1842" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="1328" gs="1"></car>
-<car t="5" id="9" rect="2284,13081,2632,13811" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1781" loaded="1" loadname="produce" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1513" dists="796" gs="1"></car>
-<car t="5" id="10" rect="2322,13611,2670,14341" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1736" loaded="1" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="264" gs="1"></car>
-<car t="5" id="11" rect="2360,14143,2704,14871" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4406" loaded="1" loadname="produce" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1512" dists="608" gs="1"></car>
-<car t="5" id="12" rect="2393,14674,2735,15402" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6554" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1512" dists="76" gs="1"></car>
-<car t="5" id="13" rect="2425,15205,2763,15933" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5733" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1511" dists="196" gs="1"></car>
-<car t="5" id="14" rect="2450,15739,2770,16463" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4338" loaded="1" loadname="produce" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1510" dists="389" gs="1"></car>
-<car t="5" id="15" rect="2456,16272,2770,16994" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5306" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1509" dists="388" gs="1"></car>
-<car t="5" id="16" rect="2422,16799,2768,17529" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8617" loaded="1" loadname="produce" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1508" dists="495" gs="1"></car>
-<car t="5" id="17" rect="2375,17329,2733,18061" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3887" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1507" dists="810" gs="1"></car>
-<car t="5" id="18" rect="2327,17859,2687,18591" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8881" loadname="iced" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1507" dists="278" gs="1"></car>
+<car t="5" id="7" rect="2207,12019,2557,12749" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6993" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="1860" gs="1"></car>
+<car t="5" id="8" rect="2245,12550,2595,13280" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1842" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="1328" gs="1"></car>
+<car t="5" id="9" rect="2284,13081,2632,13811" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1781" loadname="iced" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1513" dists="796" gs="1"></car>
+<car t="5" id="10" rect="2322,13611,2670,14341" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1736" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1513" dists="264" gs="1"></car>
+<car t="5" id="11" rect="2360,14143,2704,14871" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4406" loadname="iced" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1512" dists="608" gs="1"></car>
+<car t="5" id="12" rect="2393,14674,2735,15402" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6554" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1512" dists="76" gs="1"></car>
+<car t="5" id="13" rect="2425,15205,2763,15933" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5733" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1511" dists="196" gs="1"></car>
+<car t="5" id="14" rect="2450,15739,2770,16463" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4338" loadname="iced" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1510" dists="389" gs="1"></car>
+<car t="5" id="15" rect="2456,16272,2770,16994" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5306" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1509" dists="388" gs="1"></car>
+<car t="5" id="16" rect="2422,16799,2768,17529" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8617" loadname="iced" dest="VP" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R5" trk="1508" dists="495" gs="1"></car>
+<car t="5" id="17" rect="2375,17329,2733,18061" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3887" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1507" dists="810" gs="1"></car>
+<car t="5" id="18" rect="2327,17859,2687,18591" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8881" loadname="produce" dest="VP" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R5" trk="1507" dists="278" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="41" dspeed="0" horntype="0">
@@ -5197,9 +5204,9 @@
 <car t="5" id="322" rect="22909,1806,23637,2150" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7836" loadname="iced" dest="M11" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R4" trk="4175" dists="809" gs="1"></car>
 <car t="5" id="324" rect="23433,1841,24169,2239" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6112" loadname="iced" dest="M11" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R4" trk="4176" dists="307" gs="1"></car>
 <car t="5" id="325" rect="23947,1923,24827,2441" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="NYC 4619" loadname="Empty" dest="M11" collname="North American freight" cartype="box xm atsf" trk="4177" dists="158" gs="1"></car>
-<car t="5" id="22" rect="24608,2145,25384,2677" type="3" fill="128,128,0" len="607" wid="128" label="PRR 3637" loaded="1" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="Xl Adams Express Box" trk="4177" dists="812" gs="1"></car>
-<car t="5" id="160" rect="25153,2398,25901,3002" type="3" fill="128,128,0" len="607" wid="128" label="PRR 0460" loaded="1" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="X25 Adams Express Box" trk="4178" dists="516" gs="1"></car>
-<car t="5" id="161" rect="25655,2731,26369,3391" type="3" fill="128,128,0" len="607" wid="128" label="PRR 7808" loaded="1" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="X23 Adams Express Box" trk="4179" dists="506" gs="1"></car>
+<car t="5" id="22" rect="24608,2145,25384,2677" type="3" fill="128,128,0" len="607" wid="128" label="PRR 3637" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="Xl Adams Express Box" trk="4177" dists="812" gs="1"></car>
+<car t="5" id="160" rect="25153,2398,25901,3002" type="3" fill="128,128,0" len="607" wid="128" label="PRR 0460" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="X25 Adams Express Box" trk="4178" dists="516" gs="1"></car>
+<car t="5" id="161" rect="25655,2731,26369,3391" type="3" fill="128,128,0" len="607" wid="128" label="PRR 7808" loadname="lcl" dest="M11" collname="o2o_Passenger" cartype="X23 Adams Express Box" trk="4179" dists="506" gs="1"></car>
 <car t="5" id="311" rect="26093,3109,26847,3869" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="CS 3014" loadname="Empty" dest="M11" collname="North American freight" cartype="box x23 prr" trk="4181" dists="98" gs="1"></car>
 <car t="5" id="309" rect="26564,3587,27220,4249" flags="4096" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;O 7676" loadname="coal2" dest="M11" collname="North American freight" cartype="hopper 2bay prr2" trk="4182" dists="133" gs="1"></car>
 <car t="5" id="306" rect="26937,3966,27595,4626" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="CS 1705" loadname="Empty" dest="M11" collname="North American freight" cartype="gond40 prr" trk="4182" dists="665" gs="1"></car>
@@ -5234,7 +5241,7 @@
 </trn>
 <trn t="6" id="13" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="94" rect="12831,7913,13161,8653" type="1" outl="128,128,128" fill="0,0,0" len="566" wid="141" label="PRR 240" dest="S74" collname="o2o Locomotives" cartype="E6S" trk="1745" dists="2311"></car>
+<car t="5" id="94" rect="12831,7913,13161,8653" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="566" wid="141" label="PRR 240" dest="~" collname="o2o Locomotives" cartype="E6S" trk="1745" dists="2311"></car>
 <car t="5" id="95" rect="12851,8479,13175,9039" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="386" wid="141" label="ET95" dest="~" collname="o2o Locomotives" cartype="E6S tender" trk="1745" dists="1835"></car>
 </cars>
 </trn>
@@ -5403,8 +5410,8 @@
 </trn>
 <trn t="6" id="25" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="214" rect="9903,12214,10639,12698" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="ER 5365" loadname="Tarp3" dest="DG" collname="North American freight" cartype="gond40 gra prr" trk="1744" dists="305" gs="1"></car>
-<car t="5" id="213" rect="10405,12039,11141,12523" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;A 3657" loadname="Tarp3" dest="DG" collname="North American freight" cartype="gond40 gra prr" trk="1744" dists="837" gs="1"></car>
+<car t="5" id="214" rect="9903,12214,10639,12698" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="ER 5365" loadname="Tarp" dest="DG" collname="North American freight" cartype="gond40 gra prr" trk="1744" dists="305" gs="1"></car>
+<car t="5" id="213" rect="10405,12039,11141,12523" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;A 3657" loadname="Tarp" dest="DG" collname="North American freight" cartype="gond40 gra prr" trk="1744" dists="837" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="30" dspeed="0" horntype="0">
@@ -5414,7 +5421,7 @@
 </trn>
 <trn t="6" id="39" dspeed="0" rev="1" horntype="0">
 <cars>
-<car t="5" id="234" rect="14915,18595,15607,19215" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="ACL 7836" loaded="1" loadname="cinders" dest="DA" collname="North American freight" cartype="gond40 gra prr" trk="1734" dists="296" gs="1"></car>
+<car t="5" id="234" rect="14915,18595,15607,19215" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="ACL 7836" loadname="cinders" dest="DA" collname="North American freight" cartype="gond40 gra prr" trk="1734" dists="296" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="18" dspeed="0" horntype="0">
@@ -5436,18 +5443,18 @@
 </trn>
 <trn t="6" id="22" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="361" rect="12698,21445,13436,21901" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9586" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="11105"></car>
-<car t="5" id="362" rect="13209,21591,13947,22047" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6135" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="10573"></car>
-<car t="5" id="363" rect="13721,21737,14459,22193" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3251" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="10041"></car>
-<car t="5" id="364" rect="14232,21884,14970,22340" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9060" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="9509"></car>
-<car t="5" id="365" rect="14744,22030,15482,22486" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 0775" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="8977"></car>
-<car t="5" id="366" rect="15255,22176,15993,22632" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2420" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="8445"></car>
-<car t="5" id="367" rect="15767,22322,16505,22778" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2746" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="7913"></car>
-<car t="5" id="368" rect="16278,22469,17016,22925" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2534" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="7381"></car>
-<car t="5" id="369" rect="16790,22615,17528,23071" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2300" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="6849"></car>
-<car t="5" id="370" rect="17301,22761,18039,23217" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2851" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="6317"></car>
-<car t="5" id="371" rect="17813,22907,18551,23363" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8387" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="5785"></car>
-<car t="5" id="372" rect="18324,23054,19062,23510" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9138" loadname="Empty" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="5253"></car>
+<car t="5" id="361" rect="12698,21445,13436,21901" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9586" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="11105"></car>
+<car t="5" id="362" rect="13209,21591,13947,22047" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6135" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="10573"></car>
+<car t="5" id="363" rect="13721,21737,14459,22193" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3251" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="10041"></car>
+<car t="5" id="364" rect="14232,21884,14970,22340" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9060" loadname="produce" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="9509"></car>
+<car t="5" id="365" rect="14744,22030,15482,22486" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 0775" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="8977"></car>
+<car t="5" id="366" rect="15255,22176,15993,22632" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2420" loadname="produce" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="8445"></car>
+<car t="5" id="367" rect="15767,22322,16505,22778" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2746" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="7913"></car>
+<car t="5" id="368" rect="16278,22469,17016,22925" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2534" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="7381"></car>
+<car t="5" id="369" rect="16790,22615,17528,23071" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2300" loadname="produce" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="6849"></car>
+<car t="5" id="370" rect="17301,22761,18039,23217" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2851" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="6317"></car>
+<car t="5" id="371" rect="17813,22907,18551,23363" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8387" loadname="produce" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R6" trk="2500" dists="5785"></car>
+<car t="5" id="372" rect="18324,23054,19062,23510" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9138" loadname="produce" dest="CI" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R6" trk="2500" dists="5253"></car>
 </cars>
 </trn>
 <trn t="6" id="23" dspeed="0" horntype="0">
@@ -5458,47 +5465,47 @@
 </trn>
 <trn t="6" id="57" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="66" rect="48559,17849,49431,18275" type="1" outl="128,128,128" fill="0,0,0" len="690" wid="141" label="PRR 208" dest="W2" collname="o2o Locomotives" cartype="K4s streamlined" trk="1440" dists="831" gs="1"></car>
+<car t="5" id="66" rect="48559,17849,49431,18275" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="690" wid="141" label="PRR 208" dest="~" collname="o2o Locomotives" cartype="K4s streamlined" trk="1440" dists="831" gs="1"></car>
 <car t="5" id="117" rect="49244,17964,49974,18318" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="552" wid="141" label="ET117" dest="~" collname="o2o Locomotives" cartype="K4s streamlined tender" trk="1441" dists="613" gs="1"></car>
-<car t="5" id="106" rect="49796,17983,50550,18315" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 758" dest="W2" collname="o2o Locomotives" cartype="K4s" trk="1442" dists="393" gs="1"></car>
+<car t="5" id="106" rect="49796,17983,50550,18315" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 758" dest="~" collname="o2o Locomotives" cartype="K4s" trk="1442" dists="393" gs="1"></car>
 <car t="5" id="107" rect="50368,17924,51048,18294" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET107" dest="~" collname="o2o Locomotives" cartype="K4s tender" trk="525" dists="81" gs="1"></car>
-<car t="5" id="496" rect="50833,17804,51571,18236" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1756" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="525" dists="585" gs="1"></car>
-<car t="5" id="497" rect="51341,17621,52077,18111" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8990" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="526" dists="464" gs="1"></car>
-<car t="5" id="498" rect="51832,17365,52550,17929" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4699" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="527" dists="234" gs="1"></car>
-<car t="5" id="499" rect="52289,17061,52989,17665" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4409" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="528" dists="36" gs="1"></car>
-<car t="5" id="500" rect="52715,16714,53393,17352" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 0857" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="528" dists="568" gs="1"></car>
-<car t="5" id="501" rect="53106,16306,53732,16992" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3237" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="529" dists="354" gs="1"></car>
-<car t="5" id="502" rect="53438,15860,54014,16574" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7063" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="530" dists="134" gs="1"></car>
-<car t="5" id="503" rect="53711,15386,54243,16114" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3994" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="530" dists="666" gs="1"></car>
-<car t="5" id="504" rect="53932,14891,54418,15627" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1802" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="538" dists="481" gs="1"></car>
-<car t="5" id="505" rect="54112,14380,54534,15118" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6176" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="539" dists="220" gs="1"></car>
-<car t="5" id="506" rect="54224,13859,54618,14595" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1072" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="539" dists="752" gs="1"></car>
-<car t="5" id="507" rect="54304,13334,54644,14062" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1605" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="561" dists="462" gs="1"></car>
-<car t="5" id="508" rect="54329,12806,54643,13528" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6304" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="562" dists="308" gs="1"></car>
-<car t="5" id="509" rect="54328,12274,54640,12996" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7991" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="562" dists="840" gs="1"></car>
-<car t="5" id="510" rect="54328,11742,54638,12464" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1013" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="571" dists="275" gs="1"></car>
-<car t="5" id="511" rect="54328,11210,54638,11932" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7646" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="571" dists="807" gs="1"></car>
-<car t="5" id="512" rect="54314,10677,54638,11401" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3069" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="572" dists="16" gs="1"></car>
-<car t="5" id="513" rect="54287,10143,54625,10871" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7095" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="572" dists="548" gs="1"></car>
-<car t="5" id="514" rect="54226,9610,54600,10344" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7388" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="573" dists="182" gs="1"></car>
-<car t="5" id="515" rect="54138,9084,54538,9820" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9672" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="573" dists="714" gs="1"></car>
-<car t="5" id="516" rect="54001,8564,54447,9302" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7896" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="588" dists="443" gs="1"></car>
-<car t="5" id="517" rect="53828,8056,54314,8792" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8220" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="1059" dists="211" gs="1"></car>
-<car t="5" id="518" rect="53648,7555,54136,8291" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4774" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="1059" dists="743" gs="1"></car>
-<car t="5" id="519" rect="53395,7080,53957,7800" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6661" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="1060" dists="214" gs="1"></car>
-<car t="5" id="520" rect="53130,6618,53696,7336" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1782" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1060" dists="746" gs="1"></car>
-<car t="5" id="521" rect="52822,6181,53430,6879" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6509" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1061" dists="221" gs="1"></car>
-<car t="5" id="522" rect="52477,5776,53115,6454" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5863" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1062" dists="39" gs="1"></car>
-<car t="5" id="523" rect="52106,5395,52762,6057" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4555" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1062" dists="571" gs="1"></car>
-<car t="5" id="524" rect="51695,5060,52387,5680" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4540" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1063" dists="242" gs="1"></car>
-<car t="5" id="525" rect="51267,4746,51965,5354" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1417" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1063" dists="774" gs="1"></car>
-<car t="5" id="526" rect="50816,4467,51530,5045" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7611" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1100" dists="427" gs="1"></car>
-<car t="5" id="527" rect="50343,4238,51071,4768" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2719" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1101" dists="152" gs="1"></car>
-<car t="5" id="528" rect="49855,4033,50587,4543" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2192" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1101" dists="684" gs="1"></car>
-<car t="5" id="529" rect="49346,3914,50084,4346" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2756" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1102" dists="351" gs="1"></car>
-<car t="5" id="530" rect="48826,3824,49562,4224" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7290" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1102" dists="883" gs="1"></car>
-<car t="5" id="531" rect="48302,3787,49032,4137" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1530" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1103" dists="471" gs="1"></car>
-<car t="5" id="544" rect="47774,3785,48502,4121" type="11" outl="95,95,95" fill="255,0,0" len="552" wid="141" label="PRR 506" loaded="1" loadname="E" dest="W2" collname="North American freight" cartype="caboose wood centre cupola prr" trk="1104" dists="36" gs="1"></car>
+<car t="5" id="496" rect="50833,17804,51571,18236" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1756" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="525" dists="585" gs="1"></car>
+<car t="5" id="497" rect="51341,17621,52077,18111" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8990" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="526" dists="464" gs="1"></car>
+<car t="5" id="498" rect="51832,17365,52550,17929" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4699" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="527" dists="234" gs="1"></car>
+<car t="5" id="499" rect="52289,17061,52989,17665" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4409" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="528" dists="36" gs="1"></car>
+<car t="5" id="500" rect="52715,16714,53393,17352" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 0857" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="528" dists="568" gs="1"></car>
+<car t="5" id="501" rect="53106,16306,53732,16992" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3237" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="529" dists="354" gs="1"></car>
+<car t="5" id="502" rect="53438,15860,54014,16574" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7063" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="530" dists="134" gs="1"></car>
+<car t="5" id="503" rect="53711,15386,54243,16114" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3994" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="530" dists="666" gs="1"></car>
+<car t="5" id="504" rect="53932,14891,54418,15627" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1802" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="538" dists="481" gs="1"></car>
+<car t="5" id="505" rect="54112,14380,54534,15118" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6176" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="539" dists="220" gs="1"></car>
+<car t="5" id="506" rect="54224,13859,54618,14595" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1072" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R7" trk="539" dists="752" gs="1"></car>
+<car t="5" id="507" rect="54304,13334,54644,14062" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1605" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R7" trk="561" dists="462" gs="1"></car>
+<car t="5" id="508" rect="54329,12806,54643,13528" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6304" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="562" dists="308" gs="1"></car>
+<car t="5" id="509" rect="54328,12274,54640,12996" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7991" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="562" dists="840" gs="1"></car>
+<car t="5" id="510" rect="54328,11742,54638,12464" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1013" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="571" dists="275" gs="1"></car>
+<car t="5" id="511" rect="54328,11210,54638,11932" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7646" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="571" dists="807" gs="1"></car>
+<car t="5" id="512" rect="54314,10677,54638,11401" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 3069" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="572" dists="16" gs="1"></car>
+<car t="5" id="513" rect="54287,10143,54625,10871" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7095" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="572" dists="548" gs="1"></car>
+<car t="5" id="514" rect="54226,9610,54600,10344" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7388" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="573" dists="182" gs="1"></car>
+<car t="5" id="515" rect="54138,9084,54538,9820" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 9672" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="573" dists="714" gs="1"></car>
+<car t="5" id="516" rect="54001,8564,54447,9302" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7896" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="588" dists="443" gs="1"></car>
+<car t="5" id="517" rect="53828,8056,54314,8792" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8220" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="1059" dists="211" gs="1"></car>
+<car t="5" id="518" rect="53648,7555,54136,8291" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4774" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R3" trk="1059" dists="743" gs="1"></car>
+<car t="5" id="519" rect="53395,7080,53957,7800" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6661" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R3" trk="1060" dists="214" gs="1"></car>
+<car t="5" id="520" rect="53130,6618,53696,7336" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1782" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1060" dists="746" gs="1"></car>
+<car t="5" id="521" rect="52822,6181,53430,6879" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 6509" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1061" dists="221" gs="1"></car>
+<car t="5" id="522" rect="52477,5776,53115,6454" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 5863" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1062" dists="39" gs="1"></car>
+<car t="5" id="523" rect="52106,5395,52762,6057" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4555" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1062" dists="571" gs="1"></car>
+<car t="5" id="524" rect="51695,5060,52387,5680" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 4540" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1063" dists="242" gs="1"></car>
+<car t="5" id="525" rect="51267,4746,51965,5354" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1417" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1063" dists="774" gs="1"></car>
+<car t="5" id="526" rect="50816,4467,51530,5045" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7611" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1100" dists="427" gs="1"></car>
+<car t="5" id="527" rect="50343,4238,51071,4768" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2719" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1101" dists="152" gs="1"></car>
+<car t="5" id="528" rect="49855,4033,50587,4543" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2192" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1101" dists="684" gs="1"></car>
+<car t="5" id="529" rect="49346,3914,50084,4346" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 2756" loadname="E" dest="W2" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="kernel=R1" trk="1102" dists="351" gs="1"></car>
+<car t="5" id="530" rect="48826,3824,49562,4224" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 7290" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1102" dists="883" gs="1"></car>
+<car t="5" id="531" rect="48302,3787,49032,4137" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 1530" loadname="E" dest="W2" collname="North American freight" cartype="reefer 40 am transit" prop_str="kernel=R1" trk="1103" dists="471" gs="1"></car>
+<car t="5" id="544" rect="47774,3785,48502,4121" type="11" outl="95,95,95" fill="255,0,0" len="552" wid="141" label="PRR 506" loadname="E" dest="W2" collname="North American freight" cartype="caboose wood centre cupola prr" trk="1104" dists="36" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="1" dspeed="0" horntype="0">
@@ -5510,11 +5517,11 @@
 <trn t="6" id="2" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="132" rect="10454,18110,11442,18884" type="4" fill="128,128,0" len="890" wid="138" label="PRR 5369" loadname="mail" dest="DY" collname="o2o_Passenger" cartype="Mm" trk="1963" dists="110" gs="1"></car>
-<car t="5" id="3" rect="9899,17632,10707,18390" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8102" loadname="baggage" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1965" dists="203" gs="1"></car>
-<car t="5" id="54" rect="9414,17088,10168,17898" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8057" loadname="baggage" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1967" dists="64" gs="1"></car>
-<car t="5" id="55" rect="9015,16480,9689,17342" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8020" loadname="baggage" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1968" dists="274" gs="1"></car>
-<car t="5" id="56" rect="8709,15823,9307,16715" type="3" fill="128,128,0" len="731" wid="138" label="PRR 3620" loadname="baggage" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1970" dists="10" gs="1"></car>
-<car t="5" id="133" rect="8453,14980,9005,16042" type="3" fill="128,128,0" len="890" wid="138" label="PRR 3657" loadname="baggage" dest="DY" collname="o2o_Passenger" cartype="Bn" trk="1971" dists="237" gs="1"></car>
+<car t="5" id="3" rect="9899,17632,10707,18390" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8102" loadname="express" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1965" dists="203" gs="1"></car>
+<car t="5" id="54" rect="9414,17088,10168,17898" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8057" loadname="express" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1967" dists="64" gs="1"></car>
+<car t="5" id="55" rect="9015,16480,9689,17342" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8020" loadname="express" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1968" dists="274" gs="1"></car>
+<car t="5" id="56" rect="8709,15823,9307,16715" type="3" fill="128,128,0" len="731" wid="138" label="PRR 3620" loadname="express" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1970" dists="10" gs="1"></car>
+<car t="5" id="133" rect="8453,14980,9005,16042" type="3" fill="128,128,0" len="890" wid="138" label="PRR 3657" loadname="express" dest="DY" collname="o2o_Passenger" cartype="Bn" trk="1971" dists="237" gs="1"></car>
 <car t="5" id="130" rect="8360,14391,8756,15179" type="4" fill="128,128,0" len="607" wid="128" label="PRR 5189" loadname="express" dest="DY" collname="o2o_Passenger" cartype="X23 Adams Express Box" trk="1972" dists="429" gs="1"></car>
 <car t="5" id="131" rect="8322,13791,8656,14573" type="4" fill="128,128,0" len="607" wid="128" label="PRR 4843" loadname="express" dest="DY" collname="o2o_Passenger" cartype="X25 Adams Express Box" trk="1974" dists="28" gs="1"></car>
 </cars>
@@ -5532,18 +5539,13 @@
 </trn>
 <trn t="6" id="42" dspeed="0" rev="1" horntype="0">
 <cars>
-<car t="5" id="60" rect="41350,13984,42086,14918" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI60" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1009" dists="458" gs="1"></car>
-<car t="5" id="61" rect="41801,14668,42615,15550" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI61" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1008" dists="348" gs="1"></car>
-<car t="5" id="62" rect="42347,15281,43215,16111" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI62" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1007" dists="125" gs="1"></car>
-<car t="5" id="63" rect="42958,15832,43870,16604" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI63" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="2462" gs="1"></car>
-<car t="5" id="64" rect="43618,16320,44536,17084" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI64" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="1640" gs="1"></car>
-<car t="5" id="65" rect="44286,16800,45204,17564" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI65" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="818" gs="1"></car>
-<car t="5" id="158" rect="44953,17280,45865,18054" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="EEI158" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="986" dists="778" gs="1"></car>
-</cars>
-</trn>
-<trn t="6" id="19" dspeed="0" horntype="0">
-<cars>
-<car t="5" id="82" rect="33091,10999,33777,11691" flags="4194304" type="3" fill="128,128,0" len="607" wid="128" label="PRR 6929" loaded="1" loadname="lcl" collname="o2o_Passenger" cartype="Xl Adams Express Box" trk="5126" dists="1093"></car>
+<car t="5" id="60" rect="41350,13984,42086,14918" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 474" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1009" dists="458" gs="1"></car>
+<car t="5" id="61" rect="41801,14668,42615,15550" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 828" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1008" dists="348" gs="1"></car>
+<car t="5" id="62" rect="42347,15281,43215,16111" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 520" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="1007" dists="125" gs="1"></car>
+<car t="5" id="63" rect="42958,15832,43870,16604" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 039" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="2462" gs="1"></car>
+<car t="5" id="64" rect="43618,16320,44536,17084" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 114" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="1640" gs="1"></car>
+<car t="5" id="65" rect="44286,16800,45204,17564" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 038" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="987" dists="818" gs="1"></car>
+<car t="5" id="158" rect="44953,17280,45865,18054" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 363" dest="~" collname="o2o Locomotives" cartype="MP54e1" trk="986" dists="778" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="32" dspeed="0" horntype="0">
@@ -5579,12 +5581,12 @@
 </trn>
 <trn t="6" id="14" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="480" rect="15334,30789,15936,31649" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="WJ&amp;S 8765" loadname="merchandise" dest="PF" collname="North American freight" cartype="box xm atsf" trk="1328" dists="3454"></car>
-<car t="5" id="481" rect="15040,30175,15638,31037" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="PRR 8322" loadname="merchandise" dest="PF" collname="North American freight" cartype="box 40 aar up" trk="1328" dists="2773"></car>
-<car t="5" id="482" rect="14752,29571,15344,30423" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;O 5413" loadname="merchandise" dest="PF" collname="North American freight" cartype="box m62 bo" trk="1328" dists="2098"></car>
-<car t="5" id="483" rect="14522,29090,15056,29818" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="NYNH&amp;H 8947" loadname="merchandise" dest="PF" collname="North American freight" cartype="box x26 usra ss" trk="1328" dists="1497"></car>
-<car t="5" id="484" rect="14293,28610,14827,29338" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ACL 2039" loadname="merchandise" dest="PF" collname="North American freight" cartype="box x26 usra ss" trk="1328" dists="965"></car>
-<car t="5" id="485" rect="14064,28130,14598,28858" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="B&amp;O 0125" loadname="merchandise" dest="PF" collname="North American freight" cartype="box 40 usra ss" trk="1328" dists="433"></car>
+<car t="5" id="480" rect="15334,30789,15936,31649" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="WJ&amp;S 8765" loadname="goods" dest="PF" collname="North American freight" cartype="box xm atsf" trk="1328" dists="3454"></car>
+<car t="5" id="481" rect="15040,30175,15638,31037" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="PRR 8322" loadname="goods" dest="PF" collname="North American freight" cartype="box 40 aar up" trk="1328" dists="2773"></car>
+<car t="5" id="482" rect="14752,29571,15344,30423" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;O 5413" loadname="goods" dest="PF" collname="North American freight" cartype="box m62 bo" trk="1328" dists="2098"></car>
+<car t="5" id="483" rect="14522,29090,15056,29818" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="NYNH&amp;H 8947" loadname="goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" trk="1328" dists="1497"></car>
+<car t="5" id="484" rect="14293,28610,14827,29338" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ACL 2039" loadname="goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" trk="1328" dists="965"></car>
+<car t="5" id="485" rect="14064,28130,14598,28858" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="B&amp;O 0125" loadname="goods" dest="PF" collname="North American freight" cartype="box 40 usra ss" trk="1328" dists="433"></car>
 </cars>
 </trn>
 <trn t="6" id="20" dspeed="0" horntype="0">
@@ -5599,11 +5601,11 @@
 </trn>
 <trn t="6" id="47" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="59" rect="8807,14935,9307,15805" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="P&amp;R 2756" loaded="1" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2389" dists="118" gs="1"></car>
+<car t="5" id="59" rect="8807,14935,9307,15805" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="P&amp;R 2756" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2389" dists="118" gs="1"></car>
 <car t="5" id="137" rect="9006,15588,9694,16680" type="4" fill="128,128,0" len="952" wid="138" label="PRR 6485" loadname="passengers" dest="DX" collname="o2o_Passenger" cartype="Ok" trk="2391" dists="235" gs="1"></car>
-<car t="5" id="57" rect="9397,16423,10069,17243" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="PL 5884" loaded="1" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2478" dists="542" gs="1"></car>
-<car t="5" id="85" rect="9775,16971,10515,17743" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="P&amp;R 1315" loaded="1" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2393" dists="249" gs="1"></car>
-<car t="5" id="134" rect="10249,17473,11067,18219" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 0107" loaded="1" loadname="express" dest="DX" collname="o2o_Passenger" cartype="Bd" trk="2395" dists="97" gs="1"></car>
+<car t="5" id="57" rect="9397,16423,10069,17243" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="PL 5884" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2478" dists="542" gs="1"></car>
+<car t="5" id="85" rect="9775,16971,10515,17743" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="P&amp;R 1315" loadname="lcl" dest="DX" collname="North American freight" cartype="box x23 prr" trk="2393" dists="249" gs="1"></car>
+<car t="5" id="134" rect="10249,17473,11067,18219" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 0107" loadname="express" dest="DX" collname="o2o_Passenger" cartype="Bd" trk="2395" dists="97" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="36" dspeed="0" horntype="0">
@@ -5644,10 +5646,10 @@
 <car t="5" id="333" rect="26750,24823,27488,25279" flags="4096" type="6" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;O 8996" loadname="Empty" dest="C73" collname="North American freight" cartype="hopper 2bay prr2" trk="2530" dists="638"></car>
 </cars>
 </trn>
-<trn t="6" id="45" dspeed="0" horntype="0">
+<trn t="6" id="45" dspeed="0" horntype="0" selcarno="0">
 <cars>
-<car t="5" id="139" rect="27941,24961,28571,25379" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 069" dest="~" collname="o2o Locomotives" cartype="B6s" trk="2528" dists="552" gs="1"></car>
-<car t="5" id="143" rect="28365,25084,28901,25476" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" trk="2528" dists="945" gs="1"></car>
+<car t="5" id="139" rect="27933,24959,28563,25377" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 069" dest="~" collname="o2o Locomotives" cartype="B6s" trk="2528" dists="544" gs="1"></car>
+<car t="5" id="143" rect="28358,25082,28894,25474" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" trk="2528" dists="937" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="4" dspeed="0" horntype="0">
@@ -5676,7 +5678,7 @@
 </trn>
 <trn t="6" id="40" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="381" rect="19210,23514,19842,23940" flags="4096" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 235" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="3154"></car>
+<car t="5" id="381" rect="19210,23514,19842,23940" flags="4198400" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 235" dest="~" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="3154"></car>
 <car t="5" id="380" rect="19614,23630,20246,24056" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 119" loadname="unloadable" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="2733"></car>
 <car t="5" id="377" rect="20019,23746,20757,24202" type="11" outl="95,95,95" fill="255,0,0" len="552" wid="141" label="PRR 308" loadname="E" dest="S71" collname="North American freight" cartype="caboose wood centre cupola prr" trk="2589" dists="2257"></car>
 <car t="5" id="379" rect="20530,23893,21162,24319" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 206" loadname="unloadable" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="1781"></car>
@@ -5705,7 +5707,7 @@
 <car t="5" id="144" rect="23282,24052,24154,24546" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="CS 1725" loadname="express" dest="C74" collname="North American freight" cartype="box m62 bo" trk="1783" dists="3670"></car>
 <car t="5" id="336" rect="23926,24237,24612,24677" type="9" outl="150,150,150" fill="153,255,255" len="497" wid="141" label="UTLX 7837" loadname="Empty" dest="C74" collname="North American freight" cartype="tank acf 11" trk="1783" dists="3097"></car>
 <car t="5" id="339" rect="24385,24367,25123,24823" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="141" label="B&amp;A 5607" loadname="Empty" dest="C74" collname="North American freight" cartype="gond40 gra prr" trk="1783" dists="2593"></car>
-<car t="5" id="24" rect="24896,24512,25768,25006" flags="4198400" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="M&amp;P 8641" loadname="Empty" dest="~" collname="North American freight" cartype="box x23 prr" trk="1783" dists="1992"></car>
+<car t="5" id="24" rect="24896,24512,25768,25006" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="M&amp;P 8641" loadname="Empty" dest="C74" collname="North American freight" cartype="box x23 prr" trk="1783" dists="1992"></car>
 </cars>
 </trn>
 </trains>
@@ -5771,6 +5773,8 @@
 <ind id="40" industry="DY" aar="Bn" s__r="R" load="express"></ind>
 <ind id="5" industry="VP" aar="RB" s__r="R" load="iced"></ind>
 <ind id="9" industry="VP" aar="RB" s__r="S" load="produce" staging="Easton"></ind>
+<ind id="60" industry="DX" aar="CA" s__r="S" load="express"></ind>
+<ind id="61" industry="DX" aar="CA" s__r="R" load="express"></ind>
 </industries>
 <locations>
 <loc id="1" locale="Downtown;Ash" track="DA" class="industry" vs_add="1"></loc>
@@ -5839,21 +5843,21 @@
 </locations>
 <trainseqs active_row="1"></trainseqs>
 <swrows>
-<sw id="1" car_id="349" sr_id="0" car="PRR 8860" pullfrom="JC" dir="&gt;&gt;" spotat="M11" load="Empty"></sw>
-<sw id="2" car_id="348" sr_id="0" car="B&amp;O 1876" pullfrom="JC" dir="&gt;&gt;" spotat="M11" load="Empty"></sw>
-<sw id="3" car_id="345" sr_id="0" car="AT&amp;SF 8501" pullfrom="JS" dir="&gt;&gt;" spotat="M11" load="steel products"></sw>
-<sw id="4" car_id="346" sr_id="0" car="NYNH&amp;H 4320" pullfrom="JS" dir="&gt;&gt;" spotat="M11" load="steel rods"></sw>
-<sw id="5" car_id="347" sr_id="0" car="PL 3670" pullfrom="JS" dir="&gt;&gt;" spotat="M11" load="steel rods"></sw>
+<sw id="1" car_id="349" sr_id="0" car="PRR 8860" pullfrom="JC" dir="&gt;&gt;" spotat="JC"></sw>
+<sw id="2" car_id="348" sr_id="0" car="B&amp;O 1876" pullfrom="JC" dir="&gt;&gt;" spotat="JC"></sw>
+<sw id="3" car_id="345" sr_id="0" car="AT&amp;SF 8501" pullfrom="JS" dir="&gt;&gt;" spotat="JS"></sw>
+<sw id="4" car_id="346" sr_id="0" car="NYNH&amp;H 4320" pullfrom="JS" dir="&gt;&gt;" spotat="JS"></sw>
+<sw id="5" car_id="347" sr_id="0" car="PL 3670" pullfrom="JS" dir="&gt;&gt;" spotat="JS"></sw>
 <sw id="6" car_id="7" sr_id="0" car="FGEX 6993" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="7" car_id="15" sr_id="0" car="FGEX 5306" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="8" car_id="8" sr_id="0" car="FGEX 1842" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
-<sw id="9" car_id="9" sr_id="0" car="FGEX 1781" pullfrom="VP" dir="&gt;&gt;" spotat="VP" load="produce"></sw>
-<sw id="10" car_id="10" sr_id="0" car="FGEX 1736" pullfrom="VP" dir="&gt;&gt;" spotat="VP" load="iced"></sw>
-<sw id="11" car_id="11" sr_id="0" car="FGEX 4406" pullfrom="VP" dir="&gt;&gt;" spotat="VP" load="produce"></sw>
+<sw id="9" car_id="9" sr_id="0" car="FGEX 1781" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
+<sw id="10" car_id="10" sr_id="0" car="FGEX 1736" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
+<sw id="11" car_id="11" sr_id="0" car="FGEX 4406" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="12" car_id="12" sr_id="0" car="FGEX 6554" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="13" car_id="13" sr_id="0" car="FGEX 5733" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
-<sw id="14" car_id="14" sr_id="0" car="FGEX 4338" pullfrom="VP" dir="&gt;&gt;" spotat="VP" load="produce"></sw>
-<sw id="15" car_id="16" sr_id="0" car="FGEX 8617" pullfrom="VP" dir="&gt;&gt;" spotat="VP" load="produce"></sw>
+<sw id="14" car_id="14" sr_id="0" car="FGEX 4338" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
+<sw id="15" car_id="16" sr_id="0" car="FGEX 8617" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="16" car_id="17" sr_id="0" car="FGEX 3887" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="17" car_id="18" sr_id="0" car="FGEX 8881" pullfrom="VP" dir="&gt;&gt;" spotat="VP"></sw>
 <sw id="18" car_id="89" sr_id="0" car="PRRMoW 341" pullfrom="V71" dir="&gt;&gt;" spotat="V71"></sw>
@@ -5869,14 +5873,14 @@
 <sw id="28" car_id="88" sr_id="0" car="PRR 351" pullfrom="N1" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="29" car_id="86" sr_id="0" car="PRR 532" pullfrom="N1" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="30" car_id="53" sr_id="0" car="PRR 611" pullfrom="N3" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="31" car_id="61" sr_id="0" car="EEI61" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="32" car_id="62" sr_id="0" car="EEI62" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="33" car_id="63" sr_id="0" car="EEI63" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="34" car_id="65" sr_id="0" car="EEI65" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="35" car_id="158" sr_id="0" car="EEI158" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="36" car_id="64" sr_id="0" car="EEI64" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="37" car_id="60" sr_id="0" car="EEI60" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="38" car_id="381" sr_id="0" car="PRR 235" pullfrom="S71" dir="&gt;&gt;" spotat="S71"></sw>
+<sw id="31" car_id="61" sr_id="0" car="PRR 828" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="32" car_id="62" sr_id="0" car="PRR 520" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="33" car_id="63" sr_id="0" car="PRR 039" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="34" car_id="65" sr_id="0" car="PRR 038" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="35" car_id="158" sr_id="0" car="PRR 363" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="36" car_id="64" sr_id="0" car="PRR 114" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="37" car_id="60" sr_id="0" car="PRR 474" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="38" car_id="381" sr_id="0" car="PRR 235" pullfrom="S71" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="39" car_id="20" sr_id="0" car="PRR 092" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="40" car_id="73" sr_id="0" car="PRR 303" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="41" car_id="75" sr_id="0" car="PRR 410" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
@@ -5937,9 +5941,9 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0951947" ctr="x:18019,y:20006" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0761557" ctr="x:21907,y:22272" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="3991" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4029" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForPersonalizedSettings = 544
@@ -6015,7 +6019,7 @@ SPECIAL_2
 SPECIAL_3
 
 OPERATING_AAR
-HOME_AAR NE NM ESLP ESHP ESHF ESLF ESS EEI EEHF EEHP EDHF EDHP
+HOME_AAR NE NM ESLP ESHP ESHF ESLF ESS EEI EEHF EEHP EELP EDHF EDHP
 MANIFEST_AAR F FA FA6 FB FC FCA FD FL FM FS FW G GA GB GD GBH GE GS GT H HM LG LO LP LT O RA RBL RP S SH SM T TA TL TW X XAR XMR XI XM XP
 PASS_AAR B BE BH BM BMR BMT BP BR BX Bd Bn Bdr B60 CA CS D DA DB DC DL DO DP DPA MA MB MR Ok P PA PAS PB PBC PBO PC PL PO PS PSA Pk P54 P70 XX
 MW_AAR M MWB MWC MWD MWG MWF MWK MWR MWX
@@ -6030,13 +6034,6 @@ HOME_LENGTH 3
 PASS_LENGTH 4
 FREIGHT_LENGTH 4
 MW_LENGTH 3]]></script>
-<script id="543" flags="8"><![CDATA[** Optional railroad details
-    Let OperatingRoad = "Pennsylvania Railroad"
-    Let Territory = "Allegheny Region"
-    Let Location = "Western Pennsylvania"
-    Let Year = "1938"
-    Let Divisions = "Weston Division,Easton Division,Northton Division,Valley Branch" ** 
-    Let ModelScale = "HO" ** Choose from: Z, N, HOn3, OO, HO, HOn3, Sn3, S, On3, O, G]]></script>
 <script id="544" flags="8"><![CDATA[** Personalized Settings
 
 ** Make adjustments to an AO enabled layout if necessary
@@ -6063,13 +6060,13 @@ MW_LENGTH 3]]></script>
     Let ViewList8 = Main Tools,View Options,Build Tools,Script Tools,Ops Tools,Schedule
     Let TbarAuto = 0
 
-** Optional for o2o; railroad details
-    Let OperatingRoad = ""
-    Let Territory = ""
-    Let Location = ""
-    Let Year = ""
-    Let Divisions = "" ** Enter division names seperated by a comma without a space.
-    Let ModelScale = "" ** Choose from: Z, N, HOn3, OO, HO, HOn3, Sn3, S, On3, O, G
+** Optional railroad details
+    Let OperatingRoad = "Pennsylvania Railroad"
+    Let Territory = "Allegheny Region"
+    Let Location = "Western Pennsylvania"
+    Let Year = "1938"
+    Let Divisions = "Weston Division,Easton Division,Northton Division,Valley Branch"
+    Let ModelScale = "HO" ** Choose from: Z, N, HOn3, OO, HO, HOn3, Sn3, S, On3, O, G
 ]]></script>
 <rewind_point>
 <trains><![CDATA[<saved_trains selno="25" trk="0" dists="0">
@@ -6698,7 +6695,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>28,20,1078,666</wndrect>
+<wndrect>8,637,323,1283</wndrect>
 </note>
 </notes>
 </layout>
