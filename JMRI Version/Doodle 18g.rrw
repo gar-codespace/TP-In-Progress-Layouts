@@ -977,7 +977,7 @@
 <jxn t="3" id="2179" pt="51168,12595"></jxn>
 <jxn t="3" id="2180" pt="51340,11144"></jxn>
 <jxn t="3" id="2181" pt="51346,10413"></jxn>
-<jxn t="3" id="1844" pt="11906,20504"></jxn>
+<jxn t="3" id="1844" pt="11906,20504" swp="1"></jxn>
 <jxn t="3" id="1801" pt="24788,23546"></jxn>
 <jxn t="3" id="2191" pt="23433,23150"></jxn>
 <jxn t="3" id="2192" pt="7463,33033"></jxn>
@@ -5765,8 +5765,6 @@
 <ind id="55" industry="PG" aar="XM" s__r="S" load="goods"></ind>
 <ind id="56" industry="DX" aar="Bd" s__r="R" load="express"></ind>
 <ind id="57" industry="DX" aar="Bd" s__r="S" load="express"></ind>
-<ind id="58" industry="DX" aar="Ok" s__r="S" load="express"></ind>
-<ind id="59" industry="DX" aar="Ok" s__r="R" load="express"></ind>
 <ind id="10" industry="DX" aar="XM" s__r="R" load="lcl"></ind>
 <ind id="12" industry="DX" aar="XM" s__r="S" load="lcl"></ind>
 <ind id="19" industry="DY" aar="B60" s__r="R" load="express"></ind>
@@ -5943,7 +5941,7 @@ View Refresh]]></action>
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0761557" ctr="x:21907,y:22272" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="4029" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4049" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForPersonalizedSettings = 544
@@ -6695,7 +6693,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>8,637,323,1283</wndrect>
+<wndrect>198,-1,513,645</wndrect>
 </note>
 </notes>
 </layout>
