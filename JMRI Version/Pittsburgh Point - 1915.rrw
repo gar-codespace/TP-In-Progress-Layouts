@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Pittsburgh Strip District - 1915" lid="PI1" scale="3" bitmap="..\Layout Artwork\Pittsburgh Point - 1915.jpg" zoom="42.3254" xdim="67382" ydim="29760" xoffset="0" yoffset="0" bmap_size="x:67382,y:29760" def_cars="DropKick" descr="Pittsburg Point">
+<layout name="Pittsburgh Strip District - 1915" lid="PI1" scale="3" bitmap="..\Layout Artwork\Pittsburgh Point - 1915.jpg" zoom="14.7888" xdim="67382" ydim="29760" xoffset="0" yoffset="0" bmap_size="x:67382,y:29760" def_cars="DropKick" descr="Pittsburg Point">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="8700,9472"></jxn>
@@ -222,7 +222,7 @@
 <jxn t="3" id="234" pt="25091,19172"></jxn>
 <jxn t="3" id="235" pt="25298,18826"></jxn>
 <jxn t="3" id="236" pt="25495,18412"></jxn>
-<jxn t="3" id="237" pt="25631,18056" swp="1"></jxn>
+<jxn t="3" id="237" pt="25631,18056"></jxn>
 <jxn t="3" id="238" pt="25510,18537"></jxn>
 <jxn t="3" id="239" pt="25399,18826"></jxn>
 <jxn t="3" id="240" pt="25221,19220"></jxn>
@@ -730,8 +730,8 @@
 <scn t="16" id="207333" rect="14928,21929,15657,22045" otype="1" text="Water St Spur" bktype="1" fill="R:220,G:220,B:214" bktype_l="1" fill_l="R:0,G:0,B:128" lwid="1" font="-70,400,0,0,Arial,RRU=117" txtcolor="R:0,G:0,B:0"></scn>
 </scenery>
 </tracks>
-<trains selno="0" trk="0" dists="0">
-<trn t="6" id="21" dspeed="0" rev="1" horntype="0" selcarno="0">
+<trains selno="7" trk="0" dists="0">
+<trn t="6" id="21" dspeed="0" rev="1" horntype="0">
 <cars>
 <car t="5" id="1107" rect="24202,19827,24846,20483" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="Penna101107" loadname="Empty" dest="LFB" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="240" dists="19" gs="1"></car>
 <car t="5" id="1440" rect="24583,19346,25211,20082" flags="4194304" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR101440" loadname="Empty" dest="LFB" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="238" dists="239" gs="1"></car>
@@ -818,28 +818,28 @@
 <car t="5" id="1569" rect="12375,9869,13097,10171" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR109619" loadname="LCL" dest="DFS" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="13" dists="3717"></car>
 </cars>
 </trn>
-<trn t="6" id="2" dspeed="0" horntype="0">
+<trn t="6" id="2" dspeed="0" horntype="0" selcarno="7">
 <cars>
-<car t="5" id="332" rect="19973,9389,20753,9713" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR10332" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="11" dists="198" gs="1"></car>
-<car t="5" id="61" rect="19367,9416,20145,9720" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1061" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="197" gs="1"></car>
-<car t="5" id="64" rect="18761,9422,19537,9724" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1064" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="804" gs="1"></car>
-<car t="5" id="1444" rect="18154,9426,18930,9726" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101444" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="1411" gs="1"></car>
-<car t="5" id="1445" rect="17547,9430,18323,9730" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101445" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="2018" gs="1"></car>
-<car t="5" id="1446" rect="16940,9433,17716,9735" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101446" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="2625" gs="1"></car>
-<car t="5" id="1593" rect="16388,9437,17110,9737" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR107606" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="3204" gs="1"></car>
-<car t="5" id="1289" rect="15782,9440,16558,9742" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PPW&amp;CRW101289" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="3783" gs="1"></car>
-<car t="5" id="1631" rect="15175,9444,15951,9744" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1066" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="4390" gs="1"></car>
-<car t="5" id="1723" rect="14623,9448,15345,9748" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR102196" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="4969" gs="1"></car>
-<car t="5" id="1709" rect="14071,9451,14793,9751" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR105132" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="5521" gs="1"></car>
-<car t="5" id="1713" rect="13465,9455,14241,9755" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR104349" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="6100" gs="1"></car>
-<car t="5" id="698" rect="12913,9458,13635,9758" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PCC&amp;StL10698" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="6679" gs="1"></car>
-<car t="5" id="686" rect="12361,9462,13083,9762" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRRUL10686" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="7231" gs="1"></car>
-<car t="5" id="54" rect="11809,9465,12531,9765" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR1054" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="7783" gs="1"></car>
-<car t="5" id="55" rect="11257,9468,11979,9768" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR1055" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="8335" gs="1"></car>
-<car t="5" id="1153" rect="10705,9472,11427,9772" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PCC&amp;StL101153" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="8887" gs="1"></car>
-<car t="5" id="702" rect="10099,9475,10875,9775" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR10702" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="9466" gs="1"></car>
-<car t="5" id="1757" rect="9492,9479,10268,9779" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR1046" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="10073" gs="1"></car>
-<car t="5" id="1752" rect="8885,9483,9661,9783" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL10332" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="10680" gs="1"></car>
+<car t="5" id="332" rect="19905,9395,20685,9715" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR10332" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="11" dists="266" gs="1"></car>
+<car t="5" id="61" rect="19300,9419,20076,9719" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1061" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="265" gs="1"></car>
+<car t="5" id="64" rect="18693,9423,19469,9723" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1064" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="872" gs="1"></car>
+<car t="5" id="1444" rect="18086,9426,18862,9728" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101444" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="1479" gs="1"></car>
+<car t="5" id="1445" rect="17479,9430,18255,9730" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101445" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="2086" gs="1"></car>
+<car t="5" id="1446" rect="16872,9434,17648,9734" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL101446" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="2693" gs="1"></car>
+<car t="5" id="1593" rect="16320,9438,17042,9738" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR107606" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="3272" gs="1"></car>
+<car t="5" id="1289" rect="15714,9441,16490,9741" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PPW&amp;CRW101289" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="3851" gs="1"></car>
+<car t="5" id="1631" rect="15107,9445,15883,9745" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRREL1066" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="4458" gs="1"></car>
+<car t="5" id="1723" rect="14555,9448,15277,9748" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR102196" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="5037" gs="1"></car>
+<car t="5" id="1709" rect="14003,9452,14725,9752" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR105132" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="5589" gs="1"></car>
+<car t="5" id="1713" rect="13397,9455,14173,9755" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR104349" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="6168" gs="1"></car>
+<car t="5" id="698" rect="12845,9459,13567,9759" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PCC&amp;StL10698" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="6747" gs="1"></car>
+<car t="5" id="686" rect="12293,9462,13015,9762" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRRUL10686" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="7299" gs="1"></car>
+<car t="5" id="54" rect="11741,9465,12463,9765" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR1054" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="7851" gs="1"></car>
+<car t="5" id="55" rect="11189,9469,11911,9769" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR1055" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="8403" gs="1"></car>
+<car t="5" id="1153" rect="10637,9472,11359,9772" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PCC&amp;StL101153" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR Xl" prop_str="Link=1" trk="12" dists="8955" gs="1"></car>
+<car t="5" id="702" rect="10031,9476,10807,9776" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR10702" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="9534" gs="1"></car>
+<car t="5" id="1757" rect="9424,9479,10200,9781" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PRR1046" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="12" dists="10141" gs="1"></car>
+<car t="5" id="1752" rect="8817,9484,9593,9784" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="PCC&amp;StL10332" loadname="LCL" dest="DFH" collname="o2o_Freight" cartype="PRR X23" prop_str="Link=1" trk="12" dists="10748" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="5" dspeed="0" horntype="0">
@@ -955,7 +955,7 @@
 </trn>
 <trn t="6" id="4" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="1" rect="22517,13390,23295,13694" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="" loadname="Empty" dest="~" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="356" dists="490"></car>
+<car t="5" id="1" rect="22517,13390,23295,13694" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="XP41" loadname="Empty" dest="~" collname="o2o_Freight" cartype="PRR X25" prop_str="Link=1" trk="356" dists="490"></car>
 </cars>
 </trn>
 </trains>
@@ -983,34 +983,16 @@ Tools "Check Track"
 <roadstyles>
 <roadstyle bktype="3" fill="R:200,G:200,B:200" bmap="hq_background\gray gravel.bmp" id="1" name="Default" rwid="240" showt="0" tlen="112" twid="10" tspc="24" tcolor="R:102,G:51,B:0" trkcol="R:192,G:110,B:0" trkwid="1" railcol="R:80,G:80,B:80" railsep="65" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:78,t:78,r:1845,b:893" zoom="0.0236265" ctr="x:33691,y:14858" vtype="596" fit="1"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:104,t:104,r:1340,b:663" zoom="0.0676186" ctr="x:16683,y:10354" vtype="596"></winview>
 <scripts>
-<script id="1" flags="6" cmdix="3998" wndrect="0,22,597,406"><![CDATA[** Master script on layout Pittsburgh Strip District - 1915
-
-** Assign a note to a subroutine
-    Let NoteForPersonalizedSettings = 2
-    Let NoteForPressX = 0
-    Let NoteForPressY = 0
-    Let NoteForPressZ = 0
-
-** Set Up QuickKeys
-    Call InitializeQuickKeys
-    Call SetLanguage en  ** Language choices are: en, de, fr, es
-
-** Select which subroutines to use
-    Call JobTimer *Setup
-    Call o2o Setup
-    Call RandomRoads *Setup
-    Call TurnTable *Setup 0
-    Call DropKick Setup
-    Call SpeedSwitching Setup
-    Call QuickKeys Setup
+<script id="1" flags="6" cmdix="4045" wndrect="0,22,597,406"><![CDATA[** Master script on layout Pittsburgh Strip District - 1915
+** Pittsburgh Point
 
 StartingPoint:
 
 On Key
 
-Drive Train5
+Drive $Train($Train)
 
 Call QuickKeys
 
