@@ -5946,12 +5946,12 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0609245" ctr="x:43037,y:17125" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0609245" ctr="x:42972,y:17272" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="4105" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4106" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
-    Let NoteForRandomRoads = 542
+    Let NoteForRandomRoads = 0
     Let NoteForPersonalizedSettings = 544
     Let NoteForPressX = 0
     Let NoteForPressY = 0
