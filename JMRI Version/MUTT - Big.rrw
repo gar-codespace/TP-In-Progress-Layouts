@@ -169,7 +169,7 @@
 <jxn t="3" id="175" pt="4175,1875"></jxn>
 <jxn t="3" id="176" pt="4376,1923"></jxn>
 <jxn t="3" id="177" pt="4547,1938"></jxn>
-<jxn t="3" id="178" pt="4769,1960" swp="1"></jxn>
+<jxn t="3" id="178" pt="4769,1960"></jxn>
 <jxn t="3" id="25" flags="1048576" pt="12871,4411"></jxn>
 <jxn t="3" id="64" pt="12820,3975"></jxn>
 <jxn t="3" id="58" pt="13370,7429"></jxn>
@@ -552,9 +552,10 @@
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:78,t:78,r:1924,b:903" zoom="0.0562294" ctr="x:8945,y:7233" vtype="596" fit="1"></winview>
 <scripts>
-<script id="1" flags="6" cmdix="4036"><![CDATA[** Master script on MUTT - Big
+<script id="1" flags="6" cmdix="4104"><![CDATA[** Master script on MUTT - Big
 
 ** Assign a note to a subroutine
+    Let NoteForRandomRoads = 2
     Let NoteForPersonalizedSettings = 2
     Let NoteForPressX = 0
     Let NoteForPressY = 0

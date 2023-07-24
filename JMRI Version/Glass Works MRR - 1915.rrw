@@ -366,7 +366,7 @@
 <jxn t="3" id="364" pt="724,5231"></jxn>
 <jxn t="3" id="365" pt="733,7334"></jxn>
 <jxn t="3" id="366" pt="635,7583"></jxn>
-<jxn t="3" id="369" pt="893,8494" swp="1"></jxn>
+<jxn t="3" id="369" pt="893,8494"></jxn>
 <jxn t="3" id="318" pt="738,7938" swp="1"></jxn>
 <jxn t="3" id="367" pt="808,8179"></jxn>
 <jxn t="3" id="368" pt="2054,4841"></jxn>
@@ -1102,9 +1102,10 @@
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1184,b:585" zoom="0.0704102" ctr="x:9960,y:5782" vtype="596"></winview>
 <scripts>
-<script id="1" flags="6" cmdix="4046" wndrect="0,23,597,408"><![CDATA[** Master script on layout Glass Works 1915 Model RR
+<script id="1" flags="6" cmdix="4104" wndrect="0,23,597,408"><![CDATA[** Master script on layout Glass Works 1915 Model RR
 
 ** Assign a note to a subroutine
+    Let NoteForRandomRoads = 2
     Let NoteForPersonalizedSettings = 6
     Let NoteForPressX = 0
     Let NoteForPressY = 0
