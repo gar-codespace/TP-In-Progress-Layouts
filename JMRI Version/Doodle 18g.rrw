@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Doodle 18g" lid="DO1" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="12.66" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
+<layout name="Doodle 18g" lid="DO1" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="5.18553" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="32245,28393"></jxn>
@@ -1028,7 +1028,7 @@
 <jxn t="3" id="2304" pt="32963,26038"></jxn>
 <jxn t="3" id="817" pt="25359,22775"></jxn>
 <jxn t="3" id="1422" pt="24050,22398"></jxn>
-<jxn t="3" id="2303" pt="15437,20203" swp="1"></jxn>
+<jxn t="3" id="2303" pt="15437,20203"></jxn>
 <jxn t="3" id="2384" pt="9005,15263"></jxn>
 <jxn t="3" id="2385" pt="9122,15603"></jxn>
 <jxn t="3" id="2386" pt="9240,15926"></jxn>
@@ -5115,7 +5115,7 @@
 <scn t="16" id="2" rect="12195,10586,14009,12400" otype="1" ang="18.605" bktype="3" fill="R:255,G:255,B:192" nodistort="true" bmap="o2o_scenery\TTBridge2.png" bktype_l="1" fill_l="R:128,G:128,B:128"></scn>
 </scenery>
 </tracks>
-<trains selno="36" trk="0" dists="0">
+<trains selno="12" trk="0" dists="0">
 <trn t="6" id="10" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="1" rect="48125,16855,48883,17375" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 053" dest="~" collname="o2o Locomotives" cartype="K4s" trk="1085" dists="114" gs="1"></car>
@@ -5229,21 +5229,21 @@
 </trn>
 <trn t="6" id="26" dspeed="0" rev="1" horntype="0" chuff="Electric">
 <cars>
-<car t="5" id="73" rect="14158,18773,15010,19589" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 303" dest="~" collname="o2o Locomotives" cartype="p5b" trk="1948" dists="80" gs="1"></car>
-<car t="5" id="75" rect="13628,18175,14426,19041" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 410" dest="~" collname="o2o Locomotives" cartype="p5b" trk="1946" dists="283" gs="1"></car>
+<car t="5" id="73" rect="14158,18773,15010,19589" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 303" dest="S72" collname="o2o Locomotives" cartype="p5b" trk="1948" dists="80" gs="1"></car>
+<car t="5" id="75" rect="13628,18175,14426,19041" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 410" dest="S72" collname="o2o Locomotives" cartype="p5b" trk="1946" dists="283" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="71" dspeed="0" horntype="0">
+<trn t="6" id="71" dspeed="0" horntype="0" selcarno="0">
 <cars>
-<car t="5" id="19" rect="13258,16765,13910,17771" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 798" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1524" dists="158"></car>
-<car t="5" id="20" rect="12989,15988,13563,16986" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="828" wid="141" label="PRR 092" dest="~" collname="o2o Locomotives" cartype="f 3b sal" prop_str="kernel=F1" trk="1523" dists="452"></car>
-<car t="5" id="21" rect="12716,15179,13292,16203" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 872" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1522" dists="3756"></car>
+<car t="5" id="19" rect="13258,16765,13910,17771" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 798" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1524" dists="158"></car>
+<car t="5" id="20" rect="12989,15988,13563,16986" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="828" wid="141" label="PRR 092" dest="~" collname="o2o Locomotives" cartype="f 3b sal" prop_str="kernel=F1" trk="1523" dists="452"></car>
+<car t="5" id="21" rect="12716,15179,13292,16203" flags="4460544" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 872" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1522" dists="3756"></car>
 </cars>
 </trn>
 <trn t="6" id="6" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="87" rect="13725,17738,14469,18644" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 486" dest="~" collname="o2o Locomotives" cartype="p5b" trk="1526" dists="319" gs="1"></car>
-<car t="5" id="6" rect="14187,18387,15147,19369" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="993" wid="141" label="PRR 587" dest="~" collname="o2o Locomotives" cartype="GG1" trk="1532" dists="346" gs="1"></car>
+<car t="5" id="87" rect="13725,17738,14469,18644" flags="266240" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 486" dest="S72" collname="o2o Locomotives" cartype="p5b" trk="1526" dists="319" gs="1"></car>
+<car t="5" id="6" rect="14187,18387,15147,19369" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="993" wid="141" label="PRR 587" dest="S72" collname="o2o Locomotives" cartype="GG1" trk="1532" dists="346" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="13" dspeed="0" horntype="0">
@@ -5521,7 +5521,7 @@
 <car t="5" id="93" rect="10164,10079,10742,10535" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="386" wid="141" label="ET93" dest="~" collname="o2o Locomotives" cartype="D16sb tender" trk="1989" dists="675" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="2" dspeed="0" horntype="0" selcarno="0">
+<trn t="6" id="2" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="132" rect="10454,18110,11442,18884" type="4" fill="128,128,0" len="890" wid="138" label="PRR 5369" loadname="mail" dest="DY" collname="o2o_Passenger" cartype="Mm" trk="1963" dists="110" gs="1"></car>
 <car t="5" id="3" rect="9899,17632,10707,18390" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8102" loadname="express" dest="DY" collname="o2o_Passenger" cartype="B60b" trk="1965" dists="203" gs="1"></car>
@@ -5888,10 +5888,10 @@
 <sw id="37" car_id="60" sr_id="0" car="PRR 474" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="38" car_id="381" sr_id="0" car="PRR 235" pullfrom="S71" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="39" car_id="20" sr_id="0" car="PRR 092" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="40" car_id="73" sr_id="0" car="PRR 303" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="41" car_id="75" sr_id="0" car="PRR 410" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="42" car_id="87" sr_id="0" car="PRR 486" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="43" car_id="6" sr_id="0" car="PRR 587" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="40" car_id="73" sr_id="0" car="PRR 303" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="41" car_id="75" sr_id="0" car="PRR 410" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="42" car_id="87" sr_id="0" car="PRR 486" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="43" car_id="6" sr_id="0" car="PRR 587" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
 <sw id="44" car_id="19" sr_id="0" car="PRR 798" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="45" car_id="21" sr_id="0" car="PRR 872" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="46" car_id="98" sr_id="0" car="PRR 878" pullfrom="S74" dir="&gt;&gt;" spotat="~"></sw>
@@ -5946,7 +5946,7 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0789891" ctr="x:15851,y:18868" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.192844" ctr="x:14172,y:17693" vtype="596"></winview>
 <scripts>
 <script id="3" flags="6" cmdix="4147" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
