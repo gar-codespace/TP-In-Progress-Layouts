@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="18.0535" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
+<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="7.40217" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
 <tracks>
 <jxns>
 <jxn t="3" id="100" pt="1675,412"></jxn>
@@ -176,13 +176,13 @@
 <str t="1" id="45" rect="10421,1595,10741,1707" js="84" jn="78"></str>
 </trks>
 </tracks>
-<trains selno="5" trk="0" dists="0">
-<trn t="6" id="1" dspeed="0" horntype="0">
+<trains selno="0" trk="0" dists="0">
+<trn t="6" id="1" dspeed="0" horntype="0" selcarno="2">
 <cars>
 <car t="5" id="26" rect="12673,3869,13033,4601" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 5751" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" trk="170" dists="77" gs="1"></car>
 <car t="5" id="28" rect="12613,3320,12969,4052" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3597" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" trk="170" dists="629" gs="1"></car>
 <car t="5" id="20" rect="12554,2771,12910,3503" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="CNJ 8878" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xl" trk="29" dists="758"></car>
-<car t="5" id="2" rect="12495,2222,12851,2954" flags="262144" type="3" fill="128,128,0" len="552" wid="128" label="PL 4401" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Xm" trk="29" dists="206"></car>
+<car t="5" id="2" rect="12495,2222,12851,2954" type="3" fill="128,128,0" len="552" wid="128" label="PL 4401" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Xm" trk="29" dists="206"></car>
 <car t="5" id="1" rect="12426,1674,12790,2406" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="M&amp;P 8833" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xg" trk="62" dists="346" gs="1"></car>
 <car t="5" id="47" rect="12360,1126,12722,1858" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="P&amp;R 3022" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xg" trk="62" dists="898" gs="1"></car>
 </cars>
@@ -218,7 +218,7 @@
 <car t="5" id="43" rect="15631,9739,16279,10389" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 6249" loadname="Can Oysters" dest="MS" collname="o2o_Freight" cartype="PRR Xl" trk="1" dists="1556" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="4" dspeed="0" horntype="0" selcarno="0">
+<trn t="6" id="4" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="62" rect="13634,7739,14150,8255" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="~" collname="o2o Locomotives" cartype="A4" trk="78" dists="2662" gs="1"></car>
 <car t="5" id="31" rect="13246,7349,13894,7999" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9508" loadname="Produce" dest="ST" collname="o2o_Freight" cartype="PRR Rf" trk="14" dists="73" gs="1"></car>
@@ -287,7 +287,7 @@
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:70,B:255" trkwid="1" railcol="R:128,G:128,B:128" railsep="65" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.055391" ctr="x:8955,y:7232" vtype="596" fit="1"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.135095" ctr="x:9427,y:3910" vtype="596"></winview>
 <scripts>
 <script id="1" flags="6" cmdix="4147" wndrect="0,23,450,277"><![CDATA[* Master script on layout MUTT
 
