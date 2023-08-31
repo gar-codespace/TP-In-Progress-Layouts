@@ -5964,7 +5964,7 @@ View Refresh]]></action>
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.192844" ctr="x:25935,y:24211" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="4147" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4169" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForRandomRoads = 542
@@ -6708,7 +6708,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>110,5,605,651</wndrect>
+<wndrect>110,5,425,651</wndrect>
 </note>
 </notes>
 </layout>
