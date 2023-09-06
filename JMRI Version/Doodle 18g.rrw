@@ -830,7 +830,7 @@
 <jxn t="3" id="1791" pt="14396,16370"></jxn>
 <jxn t="3" id="1793" pt="14627,17012"></jxn>
 <jxn t="3" id="1795" pt="14813,17440"></jxn>
-<jxn t="3" id="1796" pt="11602,20621"></jxn>
+<jxn t="3" id="1796" pt="11602,20621" swp="1"></jxn>
 <jxn t="3" id="1797" pt="11126,20403"></jxn>
 <jxn t="3" id="1798" pt="10769,20184"></jxn>
 <jxn t="3" id="1799" pt="10491,19982"></jxn>
@@ -5229,15 +5229,15 @@
 </trn>
 <trn t="6" id="26" dspeed="0" rev="1" horntype="0" chuff="Electric">
 <cars>
-<car t="5" id="73" rect="14158,18773,15010,19589" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 303" dest="S72" collname="o2o Locomotives" cartype="p5b" trk="1948" dists="80" gs="1"></car>
-<car t="5" id="75" rect="13628,18175,14426,19041" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 410" dest="S72" collname="o2o Locomotives" cartype="p5b" trk="1946" dists="283" gs="1"></car>
+<car t="5" id="73" rect="14158,18773,15010,19589" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 303" dest="S75" collname="o2o Locomotives" cartype="p5b" trk="1948" dists="80" gs="1"></car>
+<car t="5" id="75" rect="13628,18175,14426,19041" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="800" wid="141" label="PRR 410" dest="S75" collname="o2o Locomotives" cartype="p5b" trk="1946" dists="283" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="71" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="19" rect="13258,16765,13910,17771" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 798" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1524" dists="158"></car>
-<car t="5" id="20" rect="12989,15988,13563,16986" flags="4456448" type="0" outl="255,255,51" fill="0,0,153" len="828" wid="141" label="PRR 092" dest="~" collname="o2o Locomotives" cartype="f 3b sal" prop_str="kernel=F1" trk="1523" dists="452"></car>
-<car t="5" id="21" rect="12716,15179,13292,16203" flags="4460544" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 872" dest="~" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1522" dists="3756"></car>
+<car t="5" id="19" rect="13258,16765,13910,17771" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 798" dest="S72" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1524" dists="158"></car>
+<car t="5" id="20" rect="12989,15988,13563,16986" flags="262144" type="0" outl="255,255,51" fill="0,0,153" len="828" wid="141" label="PRR 092" dest="S72" collname="o2o Locomotives" cartype="f 3b sal" prop_str="kernel=F1" trk="1523" dists="452"></car>
+<car t="5" id="21" rect="12716,15179,13292,16203" flags="266240" type="0" outl="255,255,51" fill="0,0,153" len="855" wid="141" label="PRR 872" dest="S72" collname="o2o Locomotives" cartype="f 3a sal" prop_str="kernel=F1" trk="1522" dists="3756"></car>
 </cars>
 </trn>
 <trn t="6" id="6" dspeed="0" horntype="0">
@@ -5612,10 +5612,10 @@
 </trn>
 <trn t="6" id="40" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="381" rect="19423,23576,20055,24002" flags="4198400" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 235" dest="~" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="2932"></car>
-<car t="5" id="380" rect="19828,23692,20460,24118" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 119" loadname="unloadable" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="2511"></car>
-<car t="5" id="377" rect="20233,23807,20971,24263" type="11" outl="95,95,95" fill="255,0,0" len="552" wid="141" label="PRR 308" loadname="E" dest="S71" collname="North American freight" cartype="caboose wood centre cupola prr" trk="2589" dists="2035"></car>
-<car t="5" id="379" rect="20743,23954,21375,24380" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 206" loadname="unloadable" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="1559"></car>
+<car t="5" id="381" rect="19423,23576,20055,24002" flags="266240" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 235" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="2932"></car>
+<car t="5" id="380" rect="19828,23692,20460,24118" flags="4456448" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 119" loadname="unloadable" dest="S75" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="2511"></car>
+<car t="5" id="377" rect="20233,23807,20971,24263" flags="4456448" type="11" outl="95,95,95" fill="255,0,0" len="552" wid="141" label="PRR 308" loadname="E" dest="S75" collname="North American freight" cartype="caboose wood centre cupola prr" trk="2589" dists="2035"></car>
+<car t="5" id="379" rect="20743,23954,21375,24380" flags="262144" type="11" outl="95,95,95" fill="255,0,0" len="441" wid="141" label="PRR 206" loadname="unloadable" dest="S71" collname="North American freight" cartype="caboose bobber atsf" trk="2589" dists="1559"></car>
 </cars>
 </trn>
 <trn t="6" id="24" dspeed="0" horntype="0">
@@ -5886,14 +5886,14 @@
 <sw id="35" car_id="158" sr_id="0" car="PRR 363" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="36" car_id="64" sr_id="0" car="PRR 114" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="37" car_id="60" sr_id="0" car="PRR 474" pullfrom="N4" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="38" car_id="381" sr_id="0" car="PRR 235" pullfrom="S71" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="39" car_id="20" sr_id="0" car="PRR 092" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="40" car_id="73" sr_id="0" car="PRR 303" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
-<sw id="41" car_id="75" sr_id="0" car="PRR 410" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="38" car_id="381" sr_id="0" car="PRR 235" pullfrom="S71" dir="&gt;&gt;" spotat="S71"></sw>
+<sw id="39" car_id="20" sr_id="0" car="PRR 092" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="40" car_id="73" sr_id="0" car="PRR 303" pullfrom="S72" dir="&gt;&gt;" spotat="S75"></sw>
+<sw id="41" car_id="75" sr_id="0" car="PRR 410" pullfrom="S72" dir="&gt;&gt;" spotat="S75"></sw>
 <sw id="42" car_id="87" sr_id="0" car="PRR 486" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
 <sw id="43" car_id="6" sr_id="0" car="PRR 587" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
-<sw id="44" car_id="19" sr_id="0" car="PRR 798" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
-<sw id="45" car_id="21" sr_id="0" car="PRR 872" pullfrom="S72" dir="&gt;&gt;" spotat="~"></sw>
+<sw id="44" car_id="19" sr_id="0" car="PRR 798" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
+<sw id="45" car_id="21" sr_id="0" car="PRR 872" pullfrom="S72" dir="&gt;&gt;" spotat="S72"></sw>
 <sw id="46" car_id="98" sr_id="0" car="PRR 878" pullfrom="S74" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="47" car_id="99" sr_id="0" car="ET99" pullfrom="S74" dir="&gt;&gt;" spotat="~"></sw>
 <sw id="48" car_id="115" sr_id="0" car="ET115" pullfrom="S74" dir="&gt;&gt;" spotat="~"></sw>
@@ -5946,7 +5946,7 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.192844" ctr="x:26734,y:25554" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.192844" ctr="x:14080,y:20337" vtype="596"></winview>
 <scripts>
 <script id="3" flags="6" cmdix="4149" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
@@ -6692,7 +6692,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>110,5,620,651</wndrect>
+<wndrect>110,5,440,651</wndrect>
 </note>
 </notes>
 </layout>
