@@ -218,7 +218,7 @@
 <car t="5" id="15" rect="12359,4400,12717,5080" flags="266240" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="PRR 0306" loadname="Gravel" dest="MW" collname="o2o_Freight" cartype="PRR Gi" trk="28" dists="1293" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="1" dspeed="0" horntype="0" selcarno="0">
+<trn t="6" id="1" dspeed="0" horntype="0" selcarno="4">
 <cars>
 <car t="5" id="62" rect="13614,7722,14130,8240" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="~" collname="o2o Locomotives" cartype="A4" trk="19" dists="404" gs="1"></car>
 <car t="5" id="20" rect="13228,7331,13876,7983" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="CNJ 8878" loaded="1" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Xl" trk="14" dists="98" gs="1"></car>
