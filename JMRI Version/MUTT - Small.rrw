@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="17.644" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
+<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="17.6789" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
 <tracks>
 <jxns>
 <jxn t="3" id="100" pt="1675,412"></jxn>
@@ -176,15 +176,15 @@
 <str t="1" id="45" rect="10421,1595,10741,1707" js="84" jn="78"></str>
 </trks>
 </tracks>
-<trains selno="5" trk="0" dists="0">
-<trn t="6" id="4" dspeed="0" horntype="0">
+<trains selno="0" trk="0" dists="0">
+<trn t="6" id="4" dspeed="0" horntype="0" selcarno="5">
 <cars>
 <car t="5" id="31" rect="12737,4425,13093,5157" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9508" loaded="1" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" trk="64" dists="358"></car>
 <car t="5" id="25" rect="12674,3876,13034,4608" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9489" loaded="1" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" trk="170" dists="70" gs="1"></car>
 <car t="5" id="56" rect="12614,3327,12970,4059" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3882" loaded="1" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" trk="170" dists="622" gs="1"></car>
 <car t="5" id="4" rect="12555,2778,12909,3510" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 0614" loaded="1" loadname="Foodstuffs" dest="WS" collname="o2o_Freight" cartype="PRR Xl" trk="29" dists="765"></car>
 <car t="5" id="46" rect="12496,2229,12852,2961" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="B&amp;A 1897" loaded="1" loadname="Empty" dest="WS" collname="o2o_Freight" cartype="PRR Xl" trk="29" dists="213"></car>
-<car t="5" id="2" rect="12427,1681,12791,2413" type="3" fill="128,128,0" len="552" wid="128" label="PL 4401" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Xm" trk="62" dists="339" gs="1"></car>
+<car t="5" id="2" rect="12427,1681,12791,2413" type="3" fill="128,128,0" len="552" wid="128" label="PL 44011" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Xm" trk="62" dists="339" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="2" dspeed="0" horntype="0">
@@ -201,7 +201,7 @@
 </trn>
 <trn t="6" id="8" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="54" rect="8451,1290,9233,1614" flags="262144" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="P&amp;R 5448" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Fm" trk="81" dists="5094"></car>
+<car t="5" id="54" rect="8451,1290,9233,1614" flags="262144" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="P&amp;R 54488" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Fm" trk="81" dists="5094"></car>
 <car t="5" id="12" rect="7901,1264,8627,1586" flags="262144" type="10" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 6762" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Fk" trk="81" dists="4515"></car>
 <car t="5" id="23" rect="7349,1239,8075,1561" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 3265" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Xl" trk="81" dists="3963"></car>
 <car t="5" id="13" rect="6743,1211,7525,1535" flags="262144" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="B&amp;O 6992" loadname="lumber" dest="P4" collname="o2o_Freight" cartype="PRR Fm" trk="81" dists="3384"></car>
@@ -218,7 +218,7 @@
 <car t="5" id="15" rect="12359,4400,12717,5080" flags="266240" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="PRR 0306" loadname="Gravel" dest="MW" collname="o2o_Freight" cartype="PRR Gi" trk="28" dists="1293" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="1" dspeed="0" horntype="0" selcarno="4">
+<trn t="6" id="1" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="62" rect="13614,7722,14130,8240" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="~" collname="o2o Locomotives" cartype="A4" trk="19" dists="404" gs="1"></car>
 <car t="5" id="20" rect="13228,7331,13876,7983" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="CNJ 8878" loaded="1" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Xl" trk="14" dists="98" gs="1"></car>
@@ -272,11 +272,11 @@
 </industries>
 <locations>
 <loc id="6" locale="West Yard;Street Tracks" track="ST" class="staging"></loc>
-<loc id="1" locale="Water Street;4th Street Pier" track="P4" class="industry" vs_add="19"></loc>
-<loc id="3" locale="Water Street;Bulk Material Wharf" track="MW" class="industry" vs_add="2"></loc>
-<loc id="4" locale="Water Street;Gantry Crane" track="GC" class="industry" vs_add="1"></loc>
-<loc id="8" locale="Water Street;Mother Schuckers" track="MS" class="industry" vs_add="2"></loc>
-<loc id="2" locale="Water Street;Water Street Stores" track="WS" class="industry" vs_add="7"></loc>
+<loc id="1" locale="Water St;4th Street Pier" track="P4" class="industry" vs_add="19"></loc>
+<loc id="3" locale="Water St;Bulk Material Wharf" track="MW" class="industry" vs_add="2"></loc>
+<loc id="4" locale="Water St;Gantry Crane" track="GC" class="industry" vs_add="1"></loc>
+<loc id="8" locale="Water St;Mother Schuckers" track="MS" class="industry" vs_add="2"></loc>
+<loc id="2" locale="Water St;Water Street Stores" track="WS" class="industry" vs_add="7"></loc>
 </locations>
 <trainseqs active_row="1"></trainseqs>
 <swrows>
@@ -292,7 +292,7 @@ Call TrackScanner @sName @sDirection $X_Train]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:70,B:255" trkwid="1" railcol="R:128,G:128,B:128" railsep="65" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.0566765" ctr="x:8945,y:7233" vtype="596" fit="1"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.0565648" ctr="x:8945,y:7242" vtype="596" fit="1"></winview>
 <scripts>
 <script id="1" flags="6" cmdix="4149" wndrect="0,23,450,277"><![CDATA[* Master script on layout MUTT
 
