@@ -192,7 +192,7 @@
 <car t="5" id="27" rect="12531,7378,12889,8110" flags="262144" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="ER 1824" loadname="boiler2" dest="GC" collname="o2o_Freight" cartype="PRR Gr" trk="79" dists="746"></car>
 </cars>
 </trn>
-<trn t="6" id="3" dspeed="0" rev="1" horntype="0" selcarno="1">
+<trn t="6" id="3" dspeed="0" rev="1" horntype="0">
 <cars>
 <car t="5" id="57" rect="16559,10672,17207,11322" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9107" loadname="Live Oysters" dest="MS" collname="o2o_Freight" cartype="PRR Rf" trk="1" dists="240"></car>
 <car t="5" id="5" rect="16040,10150,16822,10934" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5069" loadname="Live Oysters" dest="MS" collname="o2o_Freight" cartype="PRR Bdr" trk="1" dists="881"></car>
