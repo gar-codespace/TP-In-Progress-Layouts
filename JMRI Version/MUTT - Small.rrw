@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="17.644" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
+<layout name="Metropolitan Union Transfer Terminal" lid="ME1" scale="3" bitmap="..\Layout Artwork\MUTT - Small.jpg" zoom="17.6789" xdim="17891" ydim="14483" xoffset="0" yoffset="0" bmap_size="x:17891,y:14483" def_cars="DropKick" descr="South Pier District">
 <tracks>
 <jxns>
 <jxn t="3" id="100" pt="1675,412"></jxn>
@@ -184,43 +184,43 @@
 </trn>
 <trn t="6" id="6" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="31" rect="16049,10160,16699,10810" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9508" loaded="1" loadname="Empty" dest="MS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=voaabebbzkxr" trk="1" dists="961" gs="1"></car>
-<car t="5" id="56" rect="15661,9769,16309,10419" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3882" loaded="1" loadname="Empty" dest="MS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=nnr5zupek99l" trk="1" dists="1513" gs="1"></car>
-<car t="5" id="9" rect="15705,9814,15875,9984" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="1" dists="1789" gs="1"></car>
+<car t="5" id="31" rect="16049,10160,16699,10810" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9508" loadname="Live Oysters" dest="MS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=voaabebbzkxr" trk="1" dists="961" gs="1"></car>
+<car t="5" id="56" rect="15661,9769,16309,10419" flags="262144" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3882" loadname="Live Oysters" dest="MS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=nnr5zupek99l" trk="1" dists="1513" gs="1"></car>
+<car t="5" id="9" rect="15705,9814,15875,9984" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." dest="~" cartype="diesel" trk="1" dists="1789" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="8" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="48" rect="12594,7945,12950,8677" flags="262144" type="10" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="AT&amp;SF 5337" loaded="1" loadname="tank" dest="GC" collname="o2o_Freight" cartype="PRR Fk" prop_str="rfid=aleygugj823n" trk="79" dists="1316"></car>
-<car t="5" id="61" rect="12533,7396,12891,8128" flags="262144" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="NYNH&amp;H 9743" loaded="1" loadname="boiler2" dest="GC" collname="o2o_Freight" cartype="PRR Gr" prop_str="rfid=pyaouixsd2c9" trk="79" dists="764"></car>
+<car t="5" id="48" rect="12594,7945,12950,8677" type="10" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="AT&amp;SF 5337" loadname="tank" dest="GC" collname="o2o_Freight" cartype="PRR Fk" prop_str="rfid=aleygugj823n" trk="79" dists="1316"></car>
+<car t="5" id="61" rect="12533,7396,12891,8128" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="NYNH&amp;H 9743" loadname="boiler2" dest="GC" collname="o2o_Freight" cartype="PRR Gr" prop_str="rfid=pyaouixsd2c9" trk="79" dists="764"></car>
 <car t="5" id="10" rect="12597,7403,12767,7573" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="79" dists="488"></car>
 </cars>
 </trn>
 <trn t="6" id="7" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="27" rect="12463,5317,12821,6049" flags="262144" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="ER 1824" loaded="1" loadname="Empty" dest="MW" collname="o2o_Freight" cartype="PRR Gr" prop_str="rfid=hswa1by4yjhc" trk="28" dists="345" gs="1"></car>
+<car t="5" id="27" rect="12463,5317,12821,6049" flags="262144" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="ER 1824" loadname="Gravel" dest="MW" collname="o2o_Freight" cartype="PRR Gr" prop_str="rfid=hswa1by4yjhc" trk="28" dists="345" gs="1"></car>
 <car t="5" id="17" rect="12402,4768,12760,5500" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="552" wid="130" label="AT&amp;SF 0191" loadname="Gravel" dest="MW" collname="o2o_Freight" cartype="PRR Gr" prop_str="rfid=p2f5k5zonyte" trk="28" dists="897" gs="1"></car>
 <car t="5" id="16" rect="12345,4271,12703,4951" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="B&amp;A 6470" loadname="Gravel" dest="MW" collname="o2o_Freight" cartype="PRR Gi" prop_str="rfid=td6gnx8a56a2" trk="28" dists="1423" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="4" dspeed="0" horntype="0" selcarno="15">
 <cars>
-<car t="5" id="62" rect="13612,7718,14128,8234" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="ST" collname="o2o Locomotives" cartype="A4" prop_str="rfid=nf4qdjhqfdnc" trk="19" dists="571" gs="1"></car>
-<car t="5" id="25" rect="13224,7326,13872,7978" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9489" loaded="1" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=j2x2opzxhgqt" trk="14" dists="104" gs="1"></car>
-<car t="5" id="4" rect="12839,6932,13483,7586" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 0614" loaded="1" loadname="Coffee Sacks" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=vlzyms1x6oyd" trk="7" dists="89" gs="1"></car>
-<car t="5" id="11" rect="12885,6975,13055,7145" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="7" dists="365" gs="1"></car>
-<car t="5" id="2" rect="12514,6490,13104,7186" type="3" fill="128,128,0" len="552" wid="128" label="PL 44011" loaded="1" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Xm" prop_str="rfid=8hx4z85uqoph" trk="26" dists="134"></car>
-<car t="5" id="8" rect="12572,6524,12742,6694" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="25" dists="31"></car>
-<car t="5" id="15" rect="12383,6025,12801,6711" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="PRR 0306" loaded="1" loadname="Gravel" dest="ST" collname="o2o_Freight" cartype="PRR Gi" prop_str="rfid=f54umrgz7l2i" trk="23" dists="307"></car>
-<car t="5" id="7" rect="12450,6040,12620,6210" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="23" dists="57"></car>
-<car t="5" id="6" rect="12296,5306,12684,6216" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5069" loaded="1" loadname="Live Oysters" dest="ST" collname="o2o_Passenger" cartype="Bdr" prop_str="rfid=m45cwuly679m" trk="3" dists="1561"></car>
-<car t="5" id="28" rect="12242,4758,12598,5490" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3597" loaded="1" loadname="Live Oysters" dest="ST" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=8n3su0kze8hp" trk="3" dists="920"></car>
-<car t="5" id="54" rect="12174,4156,12538,4942" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="P&amp;R 54488" loaded="1" loadname="lumber" dest="ST" collname="o2o_Freight" cartype="PRR Fm" prop_str="rfid=12zr0jy27u9t" trk="3" dists="341"></car>
-<car t="5" id="12" rect="12057,3610,12473,4346" type="10" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 6762" loaded="1" loadname="lumber" dest="ST" collname="o2o_Freight" cartype="PRR Fk" prop_str="rfid=8yos7etn30xc" trk="55" dists="153"></car>
-<car t="5" id="23" rect="11895,3081,12341,3815" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 3265" loaded="1" loadname="Break Bulk" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=p8nbt57of3z3" trk="52" dists="130"></car>
-<car t="5" id="14" rect="11838,2613,12192,3275" type="-1" outl="95,95,95" fill="255,0,0" len="480" wid="127" label="PRR 3990" loaded="1" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="Union Tank" prop_str="rfid=qthpfd32r9aa" trk="20" dists="1229"></car>
-<car t="5" id="22" rect="11773,2066,12133,2798" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="LV 1748" loaded="1" loadname="Break Bulk" dest="ST" collname="o2o_Freight" cartype="PRR Xl Vent" prop_str="rfid=d95hdcpwk7u0" trk="20" dists="713"></car>
-<car t="5" id="42" rect="11710,1518,12070,2250" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="ER 2050" loaded="1" loadname="Break Bulk" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=13i539g6at7f" trk="20" dists="161"></car>
+<car t="5" id="62" rect="14057,8165,14573,8681" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="ST" collname="o2o Locomotives" cartype="A4" prop_str="rfid=nf4qdjhqfdnc" trk="78" dists="2062" gs="1"></car>
+<car t="5" id="25" rect="13669,7775,14317,8425" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9489" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=j2x2opzxhgqt" trk="19" dists="397" gs="1"></car>
+<car t="5" id="4" rect="13279,7382,13927,8034" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 0614" loadname="Coffee Sacks" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=vlzyms1x6oyd" trk="14" dists="26" gs="1"></car>
+<car t="5" id="11" rect="13324,7427,13494,7597" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="14" dists="302" gs="1"></car>
+<car t="5" id="2" rect="12893,6987,13539,7641" type="3" fill="128,128,0" len="552" wid="128" label="PL 44011" loadname="Produce" dest="ST" collname="o2o_Freight" cartype="PRR Xm" prop_str="rfid=8hx4z85uqoph" trk="7" dists="11" gs="1"></car>
+<car t="5" id="8" rect="12939,7032,13109,7202" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="7" dists="287" gs="1"></car>
+<car t="5" id="15" rect="12571,6601,13159,7245" flags="4096" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="PRR 0306" loadname="Gravel" dest="ST" collname="o2o_Freight" cartype="PRR Gi" prop_str="rfid=f54umrgz7l2i" trk="27" dists="88"></car>
+<car t="5" id="7" rect="12628,6641,12798,6811" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="25" dists="161"></car>
+<car t="5" id="6" rect="12360,5922,12856,6832" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5069" loadname="Live Oysters" dest="ST" collname="o2o_Passenger" cartype="Bdr" prop_str="rfid=m45cwuly679m" trk="23" dists="321"></car>
+<car t="5" id="28" rect="12311,5384,12667,6116" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3597" loadname="Produce" dest="ST" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=8n3su0kze8hp" trk="3" dists="1550"></car>
+<car t="5" id="54" rect="12245,4782,12607,5568" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="P&amp;R 54488" loadname="boiler2" dest="ST" collname="o2o_Freight" cartype="PRR Fm" prop_str="rfid=12zr0jy27u9t" trk="3" dists="971"></car>
+<car t="5" id="12" rect="12184,4233,12540,4965" type="10" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 6762" loadname="tank" dest="ST" collname="o2o_Freight" cartype="PRR Fk" prop_str="rfid=8yos7etn30xc" trk="3" dists="392"></car>
+<car t="5" id="23" rect="12085,3686,12481,4422" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PL 3265" loadname="Foodstuffs" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=p8nbt57of3z3" trk="55" dists="231"></car>
+<car t="5" id="14" rect="11932,3224,12370,3888" type="-1" outl="95,95,95" fill="255,0,0" len="480" wid="127" label="PRR 3990" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="Union Tank" prop_str="rfid=qthpfd32r9aa" trk="52" dists="244"></car>
+<car t="5" id="22" rect="11846,2689,12224,3423" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="LV 1748" loadname="Empty" dest="ST" collname="o2o_Freight" cartype="PRR Xl Vent" prop_str="rfid=d95hdcpwk7u0" trk="40" dists="56"></car>
+<car t="5" id="42" rect="11783,2143,12143,2875" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="ER 2050" loadname="Foodstuffs" dest="ST" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=13i539g6at7f" trk="20" dists="791"></car>
 </cars>
 </trn>
 <trn t="6" id="9" dspeed="0" horntype="0">
@@ -230,21 +230,21 @@
 </trn>
 <trn t="6" id="3" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="21" rect="12856,5537,13218,6323" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="LV 2943" loaded="1" loadname="Foodstuffs" dest="WS" collname="o2o_Freight" cartype="PRR X23" prop_str="rfid=2mhmx5n09a78" trk="64" dists="1504"></car>
-<car t="5" id="26" rect="12798,4988,13154,5720" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 5751" loaded="1" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=tkrqk3f5pxdj" trk="64" dists="925"></car>
-<car t="5" id="43" rect="12739,4439,13095,5171" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 6249" loaded="1" loadname="Foodstuffs" dest="WS" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=cj5wo60vndqd" trk="64" dists="373"></car>
-<car t="5" id="20" rect="12676,3891,13036,4623" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="CNJ 8878" loaded="1" loadname="Empty" dest="WS" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=on12c5zb1tjx" trk="170" dists="55" gs="1"></car>
-<car t="5" id="1" rect="12616,3342,12972,4074" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="M&amp;P 8833" loaded="1" loadname="Empty" dest="WS" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=qsc31hn6jbdg" trk="170" dists="607" gs="1"></car>
+<car t="5" id="21" rect="12856,5537,13218,6323" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="LV 2943" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR X23" prop_str="rfid=2mhmx5n09a78" trk="64" dists="1504"></car>
+<car t="5" id="26" rect="12798,4988,13154,5720" flags="266240" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 5751" loadname="Produce" dest="WS" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=tkrqk3f5pxdj" trk="64" dists="925"></car>
+<car t="5" id="43" rect="12739,4439,13095,5171" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="PRR 6249" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=cj5wo60vndqd" trk="64" dists="373"></car>
+<car t="5" id="20" rect="12676,3891,13036,4623" flags="266240" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="CNJ 8878" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=on12c5zb1tjx" trk="170" dists="55" gs="1"></car>
+<car t="5" id="1" rect="12616,3342,12972,4074" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="M&amp;P 8833" loadname="Coffee Sacks" dest="WS" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=qsc31hn6jbdg" trk="170" dists="607" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="1" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="5" rect="8767,1175,8937,1345" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="1" wid="1" label="." cartype="diesel" trk="42" dists="5100"></car>
-<car t="5" id="36" rect="8213,1084,8939,1408" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="P&amp;R 8715" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=y9tr427b56vf" trk="42" dists="4824"></car>
-<car t="5" id="39" rect="7607,1055,8389,1381" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="ACL 0676" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR X23" prop_str="rfid=qa39e3m4xjto" trk="42" dists="4245"></car>
-<car t="5" id="47" rect="7057,1028,7783,1352" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="P&amp;R 3022" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=zo0vcaw9mka6" trk="42" dists="3666"></car>
-<car t="5" id="3" rect="6505,1002,7231,1326" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="WJ&amp;S 6433" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=9ytxuqvqxblq" trk="42" dists="3114"></car>
-<car t="5" id="59" rect="5954,975,6680,1299" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="ACL 9405" loaded="1" loadname="Empty" dest="P4" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=oh2l1ohtwaur" trk="42" dists="2562"></car>
+<car t="5" id="36" rect="8213,1084,8939,1408" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="P&amp;R 8715" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=y9tr427b56vf" trk="42" dists="4824"></car>
+<car t="5" id="39" rect="7607,1055,8389,1381" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="ACL 0676" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR X23" prop_str="rfid=qa39e3m4xjto" trk="42" dists="4245"></car>
+<car t="5" id="47" rect="7057,1028,7783,1352" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="P&amp;R 3022" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=zo0vcaw9mka6" trk="42" dists="3666"></car>
+<car t="5" id="3" rect="6505,1002,7231,1326" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="WJ&amp;S 6433" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=9ytxuqvqxblq" trk="42" dists="3114"></car>
+<car t="5" id="59" rect="5954,975,6680,1299" flags="262144" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="ACL 9405" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR Xl" prop_str="rfid=oh2l1ohtwaur" trk="42" dists="2562"></car>
 <car t="5" id="13" rect="5347,947,6129,1273" type="10" outl="102,51,0" fill="204,102,0" len="607" wid="128" label="B&amp;O 6992" loadname="lumber" dest="P4" collname="o2o_Freight" cartype="PRR Fm" prop_str="rfid=j4qqvvh3bxlv" trk="42" dists="1983"></car>
 <car t="5" id="18" rect="4797,920,5523,1244" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="128" label="ACL 4430" loadname="Break Bulk" dest="P4" collname="o2o_Freight" cartype="PRR Xg" prop_str="rfid=w1qcm530ft5z" trk="42" dists="1404"></car>
 </cars>
@@ -306,7 +306,7 @@ Call TrackScanner @sName @sDirection $X_Train]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:70,B:255" trkwid="1" railcol="R:128,G:128,B:128" railsep="65" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.0566765" ctr="x:8945,y:7233" vtype="596" fit="1"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:52,t:52,r:1297,b:611" zoom="0.0565648" ctr="x:8945,y:7242" vtype="596" fit="1"></winview>
 <scripts>
 <script id="1" flags="6" cmdix="4149" wndrect="0,23,450,277"><![CDATA[* Master script on layout MUTT
 
@@ -475,7 +475,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="15,134,661,434" otype="9" text=" " bktype="1" fill="R:240,G:216,B:188" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>184,17,859,570</wndrect>
+<wndrect>184,17,499,570</wndrect>
 </note>
 </notes>
 </layout>
