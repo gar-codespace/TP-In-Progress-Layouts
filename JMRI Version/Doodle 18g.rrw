@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Doodle 18g" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="5.65386" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
+<layout name="Doodle 18g" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="7.06734" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="32245,28393"></jxn>
@@ -157,7 +157,7 @@
 <jxn t="3" id="229" pt="18788,36264"></jxn>
 <jxn t="3" id="230" pt="19605,36108"></jxn>
 <jxn t="3" id="231" pt="20460,35939"></jxn>
-<jxn t="3" id="232" pt="21223,35748"></jxn>
+<jxn t="3" id="232" pt="21159,35774" swp="1"></jxn>
 <jxn t="3" id="123" pt="31938,29610"></jxn>
 <jxn t="3" id="233" pt="28851,31499"></jxn>
 <jxn t="3" id="234" pt="29097,31926"></jxn>
@@ -1211,7 +1211,7 @@
 <jxn t="3" id="2590" pt="16934,20883"></jxn>
 <jxn t="3" id="2591" pt="17888,21159"></jxn>
 <jxn t="3" id="2592" pt="24516,23054"></jxn>
-<jxn t="3" id="2305" pt="18131,20978" swp="1"></jxn>
+<jxn t="3" id="2305" pt="18131,20978"></jxn>
 <jxn t="3" id="2306" pt="17363,20812" swp="1"></jxn>
 <jxn t="3" id="2406" pt="17374,20753" swp="1"></jxn>
 <jxn t="3" id="2587" pt="18149,20925" swp="1"></jxn>
@@ -2586,6 +2586,16 @@
 <jxn t="3" id="1464" pt="24736,22447"></jxn>
 <jxn t="3" id="1465" pt="25428,22745"></jxn>
 <jxn t="3" id="1466" pt="26150,22996" swp="1"></jxn>
+<jxn t="3" id="100" pt="19075,36443"></jxn>
+<jxn t="3" id="1570" pt="19833,36182"></jxn>
+<jxn t="3" id="1571" pt="20514,35954"></jxn>
+<jxn t="3" id="1595" pt="18574,36602"></jxn>
+<jxn t="3" id="1596" pt="18079,36744"></jxn>
+<jxn t="3" id="1597" pt="17546,36860"></jxn>
+<jxn t="3" id="1598" pt="16987,36946"></jxn>
+<jxn t="3" id="1601" pt="16397,37013"></jxn>
+<jxn t="3" id="1617" pt="15815,37036"></jxn>
+<jxn t="3" id="1618" pt="9739,37068"></jxn>
 </jxns>
 <trks>
 <str t="1" id="1" rect="32245,27542,32810,28393" js="1" jn="2"></str>
@@ -2736,8 +2746,7 @@
 <str t="1" id="224" rect="18154,36264,18788,36358" js="228" jn="229"></str>
 <str t="1" id="225" rect="18788,36108,19605,36264" js="229" jn="230"></str>
 <str t="1" id="226" rect="19605,35939,20460,36108" js="230" jn="231"></str>
-<str t="1" id="227" rect="20460,35748,21223,35939" js="231" jn="232"></str>
-<str t="1" id="228" rect="21223,35620,21718,35748" js="232" jn="91"></str>
+<str t="1" id="228" rect="21159,35620,21718,35774" js="232" jn="91"></str>
 <str t="1" id="122" rect="28851,29610,31938,31499" flags="65536" js="123" jn="233"></str>
 <str t="1" id="229" rect="28851,31499,29097,31926" flags="65536" js="233" jn="234"></str>
 <str t="1" id="230" rect="29097,30173,31962,31926" flags="65536" js="234" jn="235"></str>
@@ -5166,6 +5175,17 @@
 <str t="1" id="1623" rect="25650,22850,26150,22996" js="1466" jn="817"></str>
 <str t="1" id="1433" rect="23878,22150,24433,22332" js="1463" jn="1373"></str>
 <str t="1" id="1438" rect="23878,22150,24480,22323" js="1373" jn="1589"></str>
+<str t="1" id="227" rect="19075,36182,19833,36443" js="100" jn="1570"></str>
+<str t="1" id="1624" rect="19833,35954,20514,36182" js="1570" jn="1571"></str>
+<str t="1" id="1625" rect="20514,35774,21159,35954" js="1571" jn="232"></str>
+<str t="1" id="1626" rect="20460,35774,21159,35939" js="232" jn="231"></str>
+<str t="1" id="1627" rect="18574,36443,19075,36602" js="100" jn="1595"></str>
+<str t="1" id="1628" rect="18079,36602,18574,36744" js="1595" jn="1596"></str>
+<str t="1" id="1629" rect="17546,36744,18079,36860" js="1596" jn="1597"></str>
+<str t="1" id="1630" rect="16987,36860,17546,36946" js="1597" jn="1598"></str>
+<str t="1" id="1631" rect="16397,36946,16987,37013" js="1598" jn="1601"></str>
+<str t="1" id="1632" rect="15815,37013,16397,37036" js="1601" jn="1617"></str>
+<str t="1" id="1633" rect="9739,37036,15815,37068" js="1617" jn="1618"></str>
 </trks>
 <ctrs>
 <ttb t="12" id="1" rect="2028,2486,3218,3676" tag="Branch Line" pt="2623,3081" radius="595" ttrk="1135" scnobj="TTBridge1 ID:1"></ttb>
@@ -5176,7 +5196,7 @@
 <scn t="16" id="2" rect="12195,10586,14009,12400" otype="1" ang="63.2852" bktype="3" fill="R:255,G:255,B:192" nodistort="true" bmap="o2o_scenery\TTBridge2.png" bktype_l="1" fill_l="R:128,G:128,B:128"></scn>
 </scenery>
 </tracks>
-<trains selno="16" trk="0" dists="0">
+<trains selno="34" trk="0" dists="0">
 <trn t="6" id="10" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="1" rect="48677,17078,49439,17578" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 053" dest="~" collname="o2o Locomotives" cartype="K4s" prop_str="rfid=0emwi88f9g9i" trk="397" dists="335" gs="1"></car>
@@ -5547,18 +5567,14 @@
 <car t="5" id="497" rect="17378,22775,18116,23231" flags="4096" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="141" label="FGEX 8990" loadname="F&amp;V" dest="CI" collname="North American freight" cartype="reefer40 wood ice prr" prop_str="rfid=vunpqu7y352y" trk="1619" dists="304"></car>
 </cars>
 </trn>
-<trn t="6" id="19" dspeed="0" horntype="0">
-<cars>
-<car t="5" id="403" rect="14002,27987,14534,28715" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ER 3741" loadname="Goods" dest="PF" collname="North American freight" cartype="box 40 usra ss" prop_str="rfid=r3p1pgcj1wwe" trk="1328" dists="557" gs="1"></car>
-</cars>
-</trn>
 <trn t="6" id="43" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="40" rect="14247,28506,14839,29358" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;A 2122" loadname="Goods" dest="PF" collname="North American freight" cartype="box m62 bo" prop_str="rfid=w1auyogfvhd8" trk="1328" dists="1199" gs="1"></car>
-<car t="5" id="484" rect="14534,29111,15066,29839" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ACL 2039" loadname="Goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" prop_str="rfid=yebvxnwj9kng" trk="1328" dists="1800" gs="1"></car>
-<car t="5" id="483" rect="14761,29592,15293,30320" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="NYNH&amp;H 8947" loadname="Goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" prop_str="rfid=7ypzx57kqrcc" trk="1328" dists="2332" gs="1"></car>
-<car t="5" id="482" rect="14988,30072,15580,30926" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;O 5413" loadname="Goods" dest="PF" collname="North American freight" cartype="box m62 bo" prop_str="rfid=dgqxznzhk0wu" trk="1328" dists="2933" gs="1"></car>
-<car t="5" id="480" rect="15275,30678,15871,31540" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="WJ&amp;S 8765" loadname="Goods" dest="PF" collname="North American freight" cartype="box xm atsf" prop_str="rfid=ntgwmg9ovt74" trk="1328" dists="3608" gs="1"></car>
+<car t="5" id="403" rect="13985,27950,14517,28678" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ER 3741" loadname="Goods" dest="PF" collname="North American freight" cartype="box 40 usra ss" prop_str="rfid=r3p1pgcj1wwe" trk="1328" dists="516" gs="1"></car>
+<car t="5" id="40" rect="14211,28431,14803,29285" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;A 2122" loadname="Goods" dest="PF" collname="North American freight" cartype="box m62 bo" prop_str="rfid=w1auyogfvhd8" trk="1328" dists="1117" gs="1"></car>
+<car t="5" id="484" rect="14499,29037,15031,29765" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="ACL 2039" loadname="Goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" prop_str="rfid=yebvxnwj9kng" trk="1328" dists="1718" gs="1"></car>
+<car t="5" id="483" rect="14726,29518,15258,30246" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="552" wid="141" label="NYNH&amp;H 8947" loadname="Goods" dest="PF" collname="North American freight" cartype="box x26 usra ss" prop_str="rfid=7ypzx57kqrcc" trk="1328" dists="2250" gs="1"></car>
+<car t="5" id="482" rect="14953,29998,15545,30852" flags="4096" type="8" outl="102,51,0" fill="204,102,0" len="690" wid="141" label="B&amp;O 5413" loadname="Goods" dest="PF" collname="North American freight" cartype="box m62 bo" prop_str="rfid=dgqxznzhk0wu" trk="1328" dists="2851" gs="1"></car>
+<car t="5" id="480" rect="15240,30604,15836,31466" type="8" outl="102,51,0" fill="204,102,0" len="701" wid="141" label="WJ&amp;S 8765" loadname="Goods" dest="PF" collname="North American freight" cartype="box xm atsf" prop_str="rfid=ntgwmg9ovt74" trk="1328" dists="3526" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="26" dspeed="0" horntype="0">
@@ -6022,9 +6038,9 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.17687" ctr="x:25675,y:24109" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.141496" ctr="x:24836,y:25676" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="4196" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4195" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForRandomRoads = 542
