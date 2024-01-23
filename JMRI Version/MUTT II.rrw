@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="MUTT II" lid="MU1" scale="3" bitmap="..\Layout Artwork\MUTT II.jpg" zoom="11.055" xdim="12669" ydim="9025" xoffset="0" yoffset="0" bmap_size="x:12669,y:9025" def_cars="DropKick" descr="Random Roads - Source Data&#013;&#010;&#013;&#010;OPERATING_ROAD MUTT&#013;&#010;HOME_ROADS PRR&#013;&#010;MANIFEST_POOL PRR WJ&amp;S PRR PRR PL PL PL NYNH&amp;H P&amp;R B&amp;A B&amp;O NYC M&amp;P SP AT&amp;SF DL&amp;W CNJ ACL LV ER&#013;&#010;REEFER_POOL FGEX&#013;&#010;TANK_POOL TCX PRR TELX UTLX&#013;&#010;HOPPER_POOL PRR PGCC P&amp;R B&amp;O WCC&#013;&#010;SPECIAL_1 PRR&#013;&#010;SPECIAL_2&#013;&#010;SPECIAL_3&#013;&#010;&#013;&#010;OPERATING_AAR ESS&#013;&#010;HOME_AAR E ES ED EE EP N NE NM Xm&#013;&#010;MANIFEST_AAR F FA FA6 FB FC FCA FD FL FM FS FW G GA GB GD GBH GE GS GT H HM LG LO LP LT O RA RBL RP S SH SM T TA TL TW X XAR XMR XI XM XP XV&#013;&#010;PASS_AAR B BE BH BM BMR BMT BP BR BX CA CS D DA DB DC DL DO DP DPA MA MB MR P PA PAS PB PBC PBO PC PL PO PS PSA&#013;&#010;MW_AAR M MWB MWC MWD MWG MWF MWK MWR MWX&#013;&#010;REEFER_AAR RS R RB Rf R7&#013;&#010;TANK_AAR TG TM TO&#013;&#010;HOPPER_AAR HT HK&#013;&#010;SPECIAL_1_AAR Bdr&#013;&#010;SPECIAL_2_AAR&#013;&#010;SPECIAL_3_AAR&#013;&#010;&#013;&#010;HOME_LENGTH 3&#013;&#010;PASS_LENGTH 4&#013;&#010;FREIGHT_LENGTH 4&#013;&#010;MW_LENGTH 3">
+<layout name="MUTT II" lid="MU1" scale="3" bitmap="..\Layout Artwork\MUTT II.jpg" zoom="11.0646" xdim="12669" ydim="9025" xoffset="0" yoffset="0" bmap_size="x:12669,y:9025" def_cars="DropKick" descr="Random Roads - Source Data&#013;&#010;&#013;&#010;OPERATING_ROAD MUTT&#013;&#010;HOME_ROADS PRR&#013;&#010;MANIFEST_POOL PRR WJ&amp;S PRR PRR PL PL PL NYNH&amp;H P&amp;R B&amp;A B&amp;O NYC M&amp;P SP AT&amp;SF DL&amp;W CNJ ACL LV ER&#013;&#010;REEFER_POOL FGEX&#013;&#010;TANK_POOL TCX PRR TELX UTLX&#013;&#010;HOPPER_POOL PRR PGCC P&amp;R B&amp;O WCC&#013;&#010;SPECIAL_1 PRR&#013;&#010;SPECIAL_2&#013;&#010;SPECIAL_3&#013;&#010;&#013;&#010;OPERATING_AAR ESS&#013;&#010;HOME_AAR E ES ED EE EP N NE NM Xm&#013;&#010;MANIFEST_AAR F FA FA6 FB FC FCA FD FL FM FS FW G GA GB GD GBH GE GS GT H HM LG LO LP LT O RA RBL RP S SH SM T TA TL TW X XAR XMR XI XM XP XV&#013;&#010;PASS_AAR B BE BH BM BMR BMT BP BR BX CA CS D DA DB DC DL DO DP DPA MA MB MR P PA PAS PB PBC PBO PC PL PO PS PSA&#013;&#010;MW_AAR M MWB MWC MWD MWG MWF MWK MWR MWX&#013;&#010;REEFER_AAR RS R RB Rf R7&#013;&#010;TANK_AAR TG TM TO&#013;&#010;HOPPER_AAR HT HK&#013;&#010;SPECIAL_1_AAR Bdr&#013;&#010;SPECIAL_2_AAR&#013;&#010;SPECIAL_3_AAR&#013;&#010;&#013;&#010;HOME_LENGTH 3&#013;&#010;PASS_LENGTH 4&#013;&#010;FREIGHT_LENGTH 4&#013;&#010;MW_LENGTH 3">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="49,2127"></jxn>
@@ -204,9 +204,9 @@
 <car t="5" id="16" rect="9284,873,9964,1229" type="7" outl="134,134,134" fill="192,192,192" len="500" wid="135" label="B&amp;A 6470" loaded="1" loadname="tank" dest="G" collname="o2o_Freight" cartype="PRR Gi" prop_str="rfid=j1getug7orp1" trk="38" dists="346"></car>
 </cars>
 </trn>
-<trn t="6" id="1" dspeed="0" horntype="0">
+<trn t="6" id="1" dspeed="0" horntype="0" selcarno="0">
 <cars>
-<car t="5" id="62" rect="7612,824,8164,1238" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="SY" collname="o2o Locomotives" cartype="A4" prop_str="rfid=1lg8dsr912w1" trk="20" dists="133" gs="1"></car>
+<car t="5" id="62" rect="7612,824,8164,1238" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="360" wid="131" label="MUTT 492" loadname="produce" dest="~" collname="o2o Locomotives" cartype="A4" prop_str="rfid=1lg8dsr912w1" trk="20" dists="133" gs="1"></car>
 <car t="5" id="26" rect="7094,948,7826,1426" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 5751" loaded="1" loadname="Live Oysters" dest="SY" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=g7iwfhwrfbrg" trk="20" dists="589" gs="1"></car>
 <car t="5" id="28" rect="6563,1139,7299,1535" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 3597" loaded="1" loadname="Live Oysters" dest="SY" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=qryfagbwnluf" trk="17" dists="227" gs="1"></car>
 <car t="5" id="25" rect="6019,1237,6751,1591" type="5" outl="134,134,134" fill="255,255,255" len="552" wid="128" label="FGEX 9489" loaded="1" loadname="Live Oysters" dest="SY" collname="o2o_Freight" cartype="PRR Rf" prop_str="rfid=11ufe3jjc6y5" trk="40" dists="2013"></car>
@@ -295,7 +295,7 @@ Call TrackScanner @sName @sDirection $X_Train]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="1" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:78,t:78,r:1777,b:903" zoom="0.090457" ctr="x:6335,y:4507" vtype="596" fit="1"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:78,t:78,r:1777,b:903" zoom="0.0903781" ctr="x:6329,y:4513" vtype="596" fit="1"></winview>
 <scripts>
 <script id="1" flags="6" cmdix="4195"><![CDATA[* Master script on layout MUTT II
 
