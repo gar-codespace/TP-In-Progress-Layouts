@@ -816,7 +816,7 @@
 <jxn t="3" id="1774" pt="30600,25880"></jxn>
 <jxn t="3" id="1775" pt="29782,25759" swp="1"></jxn>
 <jxn t="3" id="1781" pt="28924,25576"></jxn>
-<jxn t="3" id="1782" pt="28196,25513"></jxn>
+<jxn t="3" id="1782" pt="28196,25513" swp="1"></jxn>
 <jxn t="3" id="1783" pt="12169,20790"></jxn>
 <jxn t="3" id="1784" pt="27248,25306"></jxn>
 <jxn t="3" id="1785" pt="26590,25268"></jxn>
@@ -5760,7 +5760,7 @@
 </trn>
 <trn t="6" id="4" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="139" rect="27926,25327,28552,25703" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 069" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="1776" dists="1562"></car>
+<car t="5" id="139" rect="27926,25337,28550,25703" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 069" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="1776" dists="1562"></car>
 <car t="5" id="143" rect="28362,25404,28892,25756" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" prop_str="rfid=xzh9vjarqa2b" trk="1776" dists="1169"></car>
 </cars>
 </trn>
@@ -6040,7 +6040,7 @@ View Refresh]]></action>
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0905574" ctr="x:46519,y:32362" vtype="596"></winview>
 <scripts>
-<script id="3" flags="6" cmdix="4196" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
+<script id="3" flags="6" cmdix="4195" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
 ** Assign a note to a subroutine
     Let NoteForRandomRoads = 542
