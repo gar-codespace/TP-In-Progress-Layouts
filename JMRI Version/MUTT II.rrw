@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="MUTT II" lid="MU1" scale="3" bitmap="..\Layout Artwork\MUTT II.jpg" zoom="7.08136" xdim="12669" ydim="9025" xoffset="0" yoffset="0" bmap_size="x:12669,y:9025" def_cars="DropKick" descr="Random Roads - Source Data&#013;&#010;&#013;&#010;OPERATING_ROAD MUTT&#013;&#010;HOME_ROADS PRR&#013;&#010;MANIFEST_POOL PRR WJ&amp;S PRR PRR PL PL PL NYNH&amp;H P&amp;R B&amp;A B&amp;O NYC M&amp;P SP AT&amp;SF DL&amp;W CNJ ACL LV ER&#013;&#010;REEFER_POOL FGEX&#013;&#010;TANK_POOL TCX PRR TELX UTLX&#013;&#010;HOPPER_POOL PRR PGCC P&amp;R B&amp;O WCC&#013;&#010;SPECIAL_1 PRR&#013;&#010;SPECIAL_2&#013;&#010;SPECIAL_3&#013;&#010;&#013;&#010;OPERATING_AAR ESS&#013;&#010;HOME_AAR E ES ED EE EP N NE NM Xm&#013;&#010;MANIFEST_AAR F FA FA6 FB FC FCA FD FL FM FS FW G GA GB GD GBH GE GS GT H HM LG LO LP LT O RA RBL RP S SH SM T TA TL TW X XAR XMR XI XM XP XV&#013;&#010;PASS_AAR B BE BH BM BMR BMT BP BR BX CA CS D DA DB DC DL DO DP DPA MA MB MR P PA PAS PB PBC PBO PC PL PO PS PSA&#013;&#010;MW_AAR M MWB MWC MWD MWG MWF MWK MWR MWX&#013;&#010;REEFER_AAR RS R RB Rf R7&#013;&#010;TANK_AAR TG TM TO&#013;&#010;HOPPER_AAR HT HK&#013;&#010;SPECIAL_1_AAR Bdr&#013;&#010;SPECIAL_2_AAR&#013;&#010;SPECIAL_3_AAR&#013;&#010;&#013;&#010;HOME_LENGTH 3&#013;&#010;PASS_LENGTH 4&#013;&#010;FREIGHT_LENGTH 4&#013;&#010;MW_LENGTH 3">
+<layout name="MUTT II" lid="MU1" scale="3" bitmap="..\Layout Artwork\MUTT II.jpg" zoom="7.08135" xdim="12669" ydim="9025" xoffset="0" yoffset="0" bmap_size="x:12669,y:9025" def_cars="DropKick" descr="Random Roads - Source Data&#013;&#010;&#013;&#010;OPERATING_ROAD MUTT&#013;&#010;HOME_ROADS PRR&#013;&#010;MANIFEST_POOL PRR WJ&amp;S PRR PRR PL PL PL NYNH&amp;H P&amp;R B&amp;A B&amp;O NYC M&amp;P SP AT&amp;SF DL&amp;W CNJ ACL LV ER&#013;&#010;REEFER_POOL FGEX&#013;&#010;TANK_POOL TCX PRR TELX UTLX&#013;&#010;HOPPER_POOL PRR PGCC P&amp;R B&amp;O WCC&#013;&#010;SPECIAL_1 PRR&#013;&#010;SPECIAL_2&#013;&#010;SPECIAL_3&#013;&#010;&#013;&#010;OPERATING_AAR ESS&#013;&#010;HOME_AAR E ES ED EE EP N NE NM Xm&#013;&#010;MANIFEST_AAR F FA FA6 FB FC FCA FD FL FM FS FW G GA GB GD GBH GE GS GT H HM LG LO LP LT O RA RBL RP S SH SM T TA TL TW X XAR XMR XI XM XP XV&#013;&#010;PASS_AAR B BE BH BM BMR BMT BP BR BX CA CS D DA DB DC DL DO DP DPA MA MB MR P PA PAS PB PBC PBO PC PL PO PS PSA&#013;&#010;MW_AAR M MWB MWC MWD MWG MWF MWK MWR MWX&#013;&#010;REEFER_AAR RS R RB Rf R7&#013;&#010;TANK_AAR TG TM TO&#013;&#010;HOPPER_AAR HT HK&#013;&#010;SPECIAL_1_AAR Bdr&#013;&#010;SPECIAL_2_AAR&#013;&#010;SPECIAL_3_AAR&#013;&#010;&#013;&#010;HOME_LENGTH 3&#013;&#010;PASS_LENGTH 4&#013;&#010;FREIGHT_LENGTH 4&#013;&#010;MW_LENGTH 3">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="49,2127"></jxn>
@@ -25,7 +25,7 @@
 <jxn t="3" id="22" pt="8856,672"></jxn>
 <jxn t="3" id="23" pt="8014,986" swp="1"></jxn>
 <jxn t="3" id="24" pt="7560,1096"></jxn>
-<jxn t="3" id="26" pt="9341,554"></jxn>
+<jxn t="3" id="26" pt="9341,554" swp="1"></jxn>
 <jxn t="3" id="27" pt="4147,1127" swp="1"></jxn>
 <jxn t="3" id="28" pt="3772,1197"></jxn>
 <jxn t="3" id="29" pt="3551,1279"></jxn>
@@ -301,7 +301,7 @@ Call TrackScanner @sName @sDirection $X_Train]]></action>
 </roadstyles>
 <winview length="44" flags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-8,y:-31" normpos="l:78,t:78,r:1777,b:903" zoom="0.141216" ctr="x:5849,y:2827" vtype="596"></winview>
 <scripts>
-<script id="1" flags="6" cmdix="4195"><![CDATA[* Master script on layout MUTT II
+<script id="1" flags="6" cmdix="4196"><![CDATA[* Master script on layout MUTT II
 
 ** Assign a note to a subroutine
     Let NoteForRandomRoads = 2
@@ -480,7 +480,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="15,134,661,434" otype="9" text=" " bktype="1" fill="R:240,G:216,B:188" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>189,12,819,565</wndrect>
+<wndrect>189,12,309,565</wndrect>
 </note>
 </notes>
 </layout>
