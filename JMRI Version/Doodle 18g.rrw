@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<layout name="Doodle 18g" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="8.37375" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
+<layout name="Doodle 18g" scale="3" bitmap="..\Layout Artwork\Doodle 18g.jpg" zoom="6.699" xdim="55200" ydim="40800" xoffset="4255" yoffset="4067" bmap_size="x:55200,y:40800" def_cars="DropKick" descr="Turntable Matrices&#013;&#010;&#013;&#010;Turntable at City&#013;&#010;rotate a 2 1744&#013;&#010;rotate b 2 1724&#013;&#010;rotate c 2 1419&#013;&#010;rotate d 2 1990&#013;&#010;rotate e 2 1992&#013;&#010;rotate f 2 1994&#013;&#010;rotate g 2 1753&#013;&#010;rotate h 2 1761&#013;&#010;rotate i 2 1759&#013;&#010;rotate j 2 1755&#013;&#010;rotate k 2 1757&#013;&#010;rotate l 2 1751&#013;&#010;rotate m 2 1747&#013;&#010;rotate s 2 2474&#013;&#010;rotate 1 2 1728&#013;&#010;rotate 2 2 2133&#013;&#010;rotate 3 2 2121&#013;&#010;rotate 4 2 1759&#013;&#010;&#013;&#010;Turntable at valley&#013;&#010;rotate a 1 389&#013;&#010;rotate b 1 84&#013;&#010;rotate c 1 633&#013;&#010;rotate d 1 386&#013;&#010;rotate 5 1 633&#013;&#010;&#013;&#010;&#013;&#010;">
 <tracks>
 <jxns>
 <jxn t="3" id="1" pt="32245,28393"></jxn>
@@ -2701,17 +2701,9 @@
 <jxn t="3" id="2047" pt="50988,22097"></jxn>
 <jxn t="3" id="2048" pt="51271,22594"></jxn>
 <jxn t="3" id="2049" pt="51328,23335"></jxn>
-<jxn t="3" id="2050" pt="51535,24935"></jxn>
 <jxn t="3" id="2051" pt="51114,22786"></jxn>
 <jxn t="3" id="2052" pt="51136,23359" swp="1"></jxn>
-<jxn t="3" id="2056" pt="51331,26087"></jxn>
-<jxn t="3" id="2057" pt="51131,28954"></jxn>
-<jxn t="3" id="2058" pt="51175,28186"></jxn>
-<jxn t="3" id="2059" pt="51276,27343"></jxn>
-<jxn t="3" id="2060" pt="51339,26624"></jxn>
-<jxn t="3" id="2061" pt="51131,26548"></jxn>
-<jxn t="3" id="2062" pt="51490,25684"></jxn>
-<jxn t="3" id="2063" pt="51411,26285"></jxn>
+<jxn t="3" id="2057" pt="51135,27421"></jxn>
 <jxn t="3" id="2064" pt="50288,29729"></jxn>
 <jxn t="3" id="2065" pt="50456,30290"></jxn>
 <jxn t="3" id="2066" pt="50595,30890"></jxn>
@@ -2754,6 +2746,14 @@
 <jxn t="3" id="2089" pt="46714,27114"></jxn>
 <jxn t="3" id="2092" pt="46165,27135"></jxn>
 <jxn t="3" id="2094" pt="45911,27176"></jxn>
+<jxn t="3" id="2050" pt="51173,26699"></jxn>
+<jxn t="3" id="2056" pt="51283,25818"></jxn>
+<jxn t="3" id="2058" pt="51327,25170"></jxn>
+<jxn t="3" id="2060" pt="51284,25804"></jxn>
+<jxn t="3" id="2061" pt="51434,24566"></jxn>
+<jxn t="3" id="2062" pt="51478,24209"></jxn>
+<jxn t="3" id="2063" pt="51513,23777"></jxn>
+<jxn t="3" id="2096" pt="51530,23348"></jxn>
 </jxns>
 <trks>
 <str t="1" id="1" rect="32245,27542,32810,28393" js="1" jn="2"></str>
@@ -5448,22 +5448,11 @@
 <str t="1" id="2053" rect="50834,21590,50988,22097" js="2046" jn="2047"></str>
 <str t="1" id="2054" rect="51153,21935,51271,22594" tag="N2" js="2043" jn="2048"></str>
 <str t="1" id="2055" rect="51271,22594,51328,23335" tag="N2" js="2048" jn="2049"></str>
-<str t="1" id="2056" rect="51523,22918,51535,24935" tag="N1" js="2039" jn="2050"></str>
 <str t="1" id="2057" rect="50988,22097,51114,22786" tag="N3" js="2047" jn="2051"></str>
 <str t="1" id="2058" rect="51114,22786,51136,23359" tag="N3" js="2051" jn="2052"></str>
-<str t="1" id="2061" rect="51131,23359,51136,26548" js="2052" jn="2061"></str>
-<str t="1" id="2062" rect="51328,23335,51331,26087" tag="N2" js="2049" jn="2056"></str>
-<str t="1" id="2063" rect="51131,28186,51175,28954" js="2057" jn="2058"></str>
-<str t="1" id="2064" rect="51175,27343,51276,28186" js="2058" jn="2059"></str>
-<str t="1" id="2065" rect="51276,26624,51339,27343" js="2059" jn="2060"></str>
-<str t="1" id="2066" rect="51130,26548,51132,28954" js="2057" jn="2061"></str>
-<str t="1" id="2067" rect="51331,26087,51339,26624" js="2060" jn="2056"></str>
-<str t="1" id="2068" rect="51490,24935,51535,25684" js="2050" jn="2062"></str>
-<str t="1" id="2069" rect="51411,25684,51490,26285" js="2062" jn="2063"></str>
-<str t="1" id="2070" rect="51276,26285,51411,27343" js="2063" jn="2059"></str>
 <str t="1" id="2072" rect="50288,29729,50456,30290" tag="N4" js="2064" jn="2065"></str>
 <str t="1" id="2073" rect="50456,30290,50595,30890" tag="N4" js="2065" jn="2066"></str>
-<str t="1" id="2074" rect="51131,28954,51136,31100" js="2057" jn="2067"></str>
+<str t="1" id="2074" rect="51134,27421,51137,31100" js="2057" jn="2067"></str>
 <str t="1" id="2075" rect="51128,31100,51136,31676" js="2067" jn="2068"></str>
 <str t="1" id="2076" rect="51101,31676,51128,32077" js="2068" jn="2069"></str>
 <str t="1" id="2077" rect="50665,31385,50697,32135" tag="N4" js="2070" jn="2071"></str>
@@ -5499,9 +5488,9 @@
 <str t="1" id="2110" rect="50651,22818,50950,23307" js="2099" jn="1927"></str>
 <str t="1" id="1815" rect="51046,14019,51576,14252" tag="W2" js="1700" jn="370"></str>
 <str t="1" id="1838" rect="50802,14252,51046,14329" tag="W2" js="2090" jn="1700"></str>
-<str t="1" id="1816" rect="50062,29227,50281,29728" tag="N4" js="2064" jn="1116"></str>
+<str t="1" id="1816" rect="50062,29227,50288,29729" tag="N4" js="2064" jn="1116"></str>
 <str t="1" id="2059" rect="49650,28586,50062,29227" tag="N4" js="1116" jn="1726"></str>
-<str t="1" id="2060" rect="49314,28191,49657,28583" tag="N4" js="1726" jn="2029"></str>
+<str t="1" id="2060" rect="49314,28191,49650,28586" tag="N4" js="1726" jn="2029"></str>
 <str t="1" id="2071" rect="48899,27831,49314,28191" tag="N4" js="2029" jn="2037"></str>
 <str t="1" id="2100" rect="48385,27505,48899,27831" tag="N4" js="2037" jn="2053"></str>
 <str t="1" id="2101" rect="47784,27279,48385,27505" tag="N4" js="2053" jn="2054"></str>
@@ -5509,6 +5498,17 @@
 <str t="1" id="2105" rect="46714,27114,47242,27152" tag="N4" js="2055" jn="2089"></str>
 <str t="1" id="2107" rect="46165,27114,46714,27135" tag="N4" js="2089" jn="2092"></str>
 <str t="1" id="2109" rect="45911,27135,46165,27176" tag="N4" js="2092" jn="2094"></str>
+<str t="1" id="2056" rect="51134,23355,51137,27421" js="2057" jn="2052"></str>
+<str t="1" id="2061" rect="51128,26699,51173,27440" js="2057" jn="2050"></str>
+<str t="1" id="2062" rect="51173,25818,51283,26699" js="2050" jn="2056"></str>
+<str t="1" id="2063" rect="51282,25804,51285,25818" js="2056" jn="2060"></str>
+<str t="1" id="2064" rect="51326,23335,51328,25170" js="2058" jn="2049"></str>
+<str t="1" id="2065" rect="51284,24566,51434,25804" js="2060" jn="2061"></str>
+<str t="1" id="2066" rect="51284,25170,51327,25804" js="2060" jn="2058"></str>
+<str t="1" id="2067" rect="51434,24209,51478,24566" js="2061" jn="2062"></str>
+<str t="1" id="2068" rect="51478,23777,51513,24209" js="2062" jn="2063"></str>
+<str t="1" id="2069" rect="51523,22918,51530,23348" js="2039" jn="2096"></str>
+<str t="1" id="2070" rect="51513,23348,51530,23777" js="2096" jn="2063"></str>
 </trks>
 <ctrs>
 <ttb t="12" id="1" rect="2028,2486,3218,3676" tag="Branch Line" pt="2623,3081" radius="595" ttrk="1135" scnobj="TTBridge1 ID:1"></ttb>
@@ -5519,7 +5519,7 @@
 <scn t="16" id="2" rect="12195,10586,14009,12400" otype="1" ang="225.471" bktype="3" fill="R:255,G:255,B:192" nodistort="true" bmap="o2o_scenery\TTBridge2.png" bktype_l="1" fill_l="R:128,G:128,B:128"></scn>
 </scenery>
 </tracks>
-<trains selno="61" trk="0" dists="0">
+<trains selno="39" trk="0" dists="0">
 <trn t="6" id="13" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="94" rect="12831,7913,13161,8653" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="566" wid="141" label="PRR 415" dest="~" collname="o2o Locomotives" cartype="E6S" prop_str="rfid=xlskysy6yzc5" trk="1745" dists="2311"></car>
@@ -5853,8 +5853,8 @@
 </trn>
 <trn t="6" id="18" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="139" rect="27986,24815,28614,25269" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 985" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="2508" dists="232" gs="1"></car>
-<car t="5" id="143" rect="28395,24979,28933,25399" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" prop_str="rfid=xzh9vjarqa2b" trk="2508" dists="625" gs="1"></car>
+<car t="5" id="139" rect="27943,24798,28571,25252" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 985" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="2508" dists="186" gs="1"></car>
+<car t="5" id="143" rect="28353,24962,28891,25382" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" prop_str="rfid=xzh9vjarqa2b" trk="2508" dists="579" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="54" dspeed="0" horntype="0">
@@ -6198,13 +6198,13 @@
 </trn>
 <trn t="6" id="50" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="60" rect="46714,26963,47716,27391" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 0213" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=j7l4cdb8mk24" trk="2105" dists="23"></car>
-<car t="5" id="61" rect="47512,27083,48504,27659" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 0314" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=da29l043eb7h" trk="2101" dists="400"></car>
-<car t="5" id="62" rect="48270,27366,49196,28116" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 7563" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=1ldsma3a2yrw" trk="2100" dists="187"></car>
-<car t="5" id="63" rect="48935,27840,49773,28700" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 4594" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=2l1nqym79dkj" trk="2060" dists="435"></car>
-<car t="5" id="64" rect="49493,28444,50225,29380" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 5050" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=tfpavbewnygv" trk="2059" dists="375"></car>
-<car t="5" id="65" rect="49931,29150,50531,30136" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 1017" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=o2yguw7yh6d0" trk="1816" dists="100"></car>
-<car t="5" id="158" rect="50226,29924,50734,30924" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 8466" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=kgu98xhclx5o" trk="2073" dists="136" gs="1"></car>
+<car t="5" id="60" rect="46735,26964,47737,27396" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 0213" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=j7l4cdb8mk24" trk="2105" dists="1"></car>
+<car t="5" id="61" rect="47534,27088,48524,27666" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 0314" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=da29l043eb7h" trk="2101" dists="378"></car>
+<car t="5" id="62" rect="48288,27378,49214,28130" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 7563" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=1ldsma3a2yrw" trk="2100" dists="165"></car>
+<car t="5" id="63" rect="48952,27855,49788,28717" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 4594" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=2l1nqym79dkj" trk="2060" dists="411"></car>
+<car t="5" id="64" rect="49505,28463,50237,29401" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 5050" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=tfpavbewnygv" trk="2059" dists="351"></car>
+<car t="5" id="65" rect="49939,29169,50537,30155" flags="4194304" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 1017" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=o2yguw7yh6d0" trk="1816" dists="80"></car>
+<car t="5" id="158" rect="50232,29944,50738,30944" flags="4198400" type="0" outl="255,255,51" fill="0,0,153" len="822" wid="141" label="PRR 8466" dest="~" collname="o2o Locomotives" cartype="MP54e1" prop_str="rfid=kgu98xhclx5o" trk="2073" dists="156" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="51" dspeed="0" horntype="0">
@@ -6526,7 +6526,7 @@ throw 1034 1
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.119421" ctr="x:45888,y:30383" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.149276" ctr="x:27560,y:25438" vtype="596"></winview>
 <scripts>
 <script id="3" flags="6" cmdix="4195" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
