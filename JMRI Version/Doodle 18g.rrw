@@ -1163,7 +1163,7 @@
 <jxn t="3" id="1079" pt="7766,15277"></jxn>
 <jxn t="3" id="1080" pt="7897,15913"></jxn>
 <jxn t="3" id="1081" pt="8056,16487"></jxn>
-<jxn t="3" id="1082" pt="11910,20280"></jxn>
+<jxn t="3" id="1082" pt="11910,20280" swp="1"></jxn>
 <jxn t="3" id="1093" pt="11346,20090"></jxn>
 <jxn t="3" id="1612" pt="10925,20047"></jxn>
 <jxn t="3" id="1689" pt="10861,20534"></jxn>
@@ -5498,11 +5498,11 @@
 <str t="1" id="2105" rect="46714,27114,47242,27152" tag="N4" js="2055" jn="2089"></str>
 <str t="1" id="2107" rect="46165,27114,46714,27135" tag="N4" js="2089" jn="2092"></str>
 <str t="1" id="2109" rect="45911,27135,46165,27176" tag="N4" js="2092" jn="2094"></str>
-<str t="1" id="2056" rect="51134,23355,51137,27421" js="2057" jn="2052"></str>
-<str t="1" id="2061" rect="51128,26699,51173,27440" js="2057" jn="2050"></str>
+<str t="1" id="2056" rect="51134,23359,51137,27421" js="2057" jn="2052"></str>
+<str t="1" id="2061" rect="51135,26699,51173,27421" js="2057" jn="2050"></str>
 <str t="1" id="2062" rect="51173,25818,51283,26699" js="2050" jn="2056"></str>
 <str t="1" id="2063" rect="51282,25804,51285,25818" js="2056" jn="2060"></str>
-<str t="1" id="2064" rect="51326,23335,51328,25170" js="2058" jn="2049"></str>
+<str t="1" id="2064" rect="51326,23335,51329,25170" js="2058" jn="2049"></str>
 <str t="1" id="2065" rect="51284,24566,51434,25804" js="2060" jn="2061"></str>
 <str t="1" id="2066" rect="51284,25170,51327,25804" js="2060" jn="2058"></str>
 <str t="1" id="2067" rect="51434,24209,51478,24566" js="2061" jn="2062"></str>
@@ -5853,8 +5853,8 @@
 </trn>
 <trn t="6" id="18" dspeed="0" horntype="0">
 <cars>
-<car t="5" id="139" rect="27943,24798,28571,25252" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 985" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="2508" dists="186" gs="1"></car>
-<car t="5" id="143" rect="28353,24962,28891,25382" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" prop_str="rfid=xzh9vjarqa2b" trk="2508" dists="579" gs="1"></car>
+<car t="5" id="139" rect="28021,24829,28649,25283" flags="4194304" type="-1" outl="95,95,95" fill="255,0,0" len="441" wid="131" label="PRR 985" dest="~" collname="o2o Locomotives" cartype="B6s" prop_str="rfid=nf5tslpf5lgr" trk="2508" dists="270" gs="1"></car>
+<car t="5" id="143" rect="28430,24994,28968,25414" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="345" wid="131" label="ET143" dest="~" collname="o2o Locomotives" cartype="B6s Tender" prop_str="rfid=xzh9vjarqa2b" trk="1909" dists="33" gs="1"></car>
 </cars>
 </trn>
 <trn t="6" id="54" dspeed="0" horntype="0">
@@ -6526,7 +6526,7 @@ throw 1034 1
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.149276" ctr="x:27560,y:25438" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.149276" ctr="x:25323,y:25271" vtype="596"></winview>
 <scripts>
 <script id="3" flags="6" cmdix="4195" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
