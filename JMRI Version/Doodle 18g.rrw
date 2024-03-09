@@ -2130,7 +2130,7 @@
 <jxn t="3" id="992" pt="53789,19841"></jxn>
 <jxn t="3" id="993" pt="52494,21428"></jxn>
 <jxn t="3" id="994" pt="51705,20398"></jxn>
-<jxn t="3" id="995" pt="51547,21325" swp="1"></jxn>
+<jxn t="3" id="995" pt="51547,21325"></jxn>
 <jxn t="3" id="996" pt="51388,21853"></jxn>
 <jxn t="3" id="997" pt="51021,22702"></jxn>
 <jxn t="3" id="1001" flags="1048576" pt="50292,23770"></jxn>
@@ -5490,7 +5490,7 @@
 <scn t="16" id="2" rect="12195,10586,14009,12400" otype="1" ang="225.471" bktype="3" fill="R:255,G:255,B:192" nodistort="true" bmap="o2o_scenery\TTBridge2.png" bktype_l="1" fill_l="R:128,G:128,B:128"></scn>
 </scenery>
 </tracks>
-<trains selno="56" trk="0" dists="0">
+<trains selno="55" trk="0" dists="0">
 <trn t="6" id="13" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="94" rect="12831,7913,13161,8653" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="566" wid="141" label="PRR 415" dest="~" collname="o2o Locomotives" cartype="E6S" prop_str="rfid=xlskysy6yzc5" trk="1745" dists="2311"></car>
@@ -5919,18 +5919,18 @@
 <car t="5" id="212" rect="45606,12351,46270,12907" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET212" dest="~" collname="o2o Locomotives" cartype="K4s tender" prop_str="rfid=ur2kmhbprs8e" trk="1813" dists="252"></car>
 <car t="5" id="216" rect="45139,12006,45855,12636" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 541" dest="~" collname="o2o Locomotives" cartype="K4s" prop_str="rfid=foifkgsw0zpt" trk="1812" dists="245"></car>
 <car t="5" id="245" rect="44762,11680,45398,12282" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET245" dest="~" collname="o2o Locomotives" cartype="K4s tender" prop_str="rfid=jbvr9enyxuwq" trk="1811" dists="366"></car>
-<car t="5" id="246" rect="44330,11263,45020,11949" flags="4198400" type="3" fill="128,128,0" len="607" wid="128" label="PRR 7127" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="X23 Adams Express Box" prop_str="rfid=jhtbwvwkkrhp" trk="1810" dists="425"></car>
-<car t="5" id="247" rect="43752,10582,44594,11524" flags="4198400" type="4" fill="128,128,0" len="890" wid="138" label="PRR 8751" loadname="mail" dest="W4" collname="o2o_Passenger" cartype="Mm" prop_str="rfid=c6gwwok8mys5" trk="1808" dists="210"></car>
-<car t="5" id="248" rect="43265,9841,44033,10833" flags="4198400" type="4" fill="128,128,0" len="890" wid="138" label="PRR 0000" loadname="mail" dest="W4" collname="o2o_Passenger" cartype="Mm" prop_str="rfid=2off547f9u3" trk="1693" dists="579"></car>
-<car t="5" id="249" rect="42955,9187,43553,10079" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5456" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=c0ftqtsom2n3" trk="1676" dists="477"></car>
-<car t="5" id="250" rect="42703,8506,43249,9410" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 7402" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=ttsdxmr5mlas" trk="1675" dists="336"></car>
-<car t="5" id="251" rect="42537,7802,43007,8714" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 3430" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="Bd" prop_str="rfid=16wxjya1u1s" trk="1674" dists="352"></car>
-<car t="5" id="252" rect="42431,6926,42841,7996" flags="4198400" type="3" fill="128,128,0" len="890" wid="138" label="PRR 3777" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=ryivaj7zc80v" trk="1672" dists="233"></car>
-<car t="5" id="253" rect="42432,6045,42740,7105" flags="4198400" type="3" fill="128,128,0" len="890" wid="138" label="PRR 0266" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=ueidrq2zwwuy" trk="1059" dists="10"></car>
-<car t="5" id="254" rect="42433,5313,42817,6223" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8837" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=4g85iyzyg2j4" trk="1040" dists="447"></car>
-<car t="5" id="255" rect="42508,4592,42974,5504" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 4827" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=9upap6awxhv" trk="1036" dists="329"></car>
-<car t="5" id="256" rect="42680,4012,43164,4798" flags="4198400" type="3" fill="128,128,0" len="607" wid="128" label="PRR 6328" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="X25 Adams Express Box" prop_str="rfid=ki6kshkllhem" trk="1021" dists="283"></car>
-<car t="5" id="257" rect="42875,3163,43617,4235" flags="4194304" type="4" fill="128,128,0" len="952" wid="138" label="PRR 6965" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="Ok" prop_str="rfid=9xtz79guc4ij" trk="1017" dists="3"></car>
+<car t="5" id="246" rect="44330,11263,45020,11949" flags="4096" type="3" fill="128,128,0" len="607" wid="128" label="PRR 7127" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="X23 Adams Express Box" prop_str="rfid=jhtbwvwkkrhp" trk="1810" dists="425"></car>
+<car t="5" id="247" rect="43752,10582,44594,11524" flags="4096" type="4" fill="128,128,0" len="890" wid="138" label="PRR 8751" loadname="mail" dest="E4" collname="o2o_Passenger" cartype="Mm" prop_str="rfid=c6gwwok8mys5" trk="1808" dists="210"></car>
+<car t="5" id="248" rect="43265,9841,44033,10833" flags="4096" type="4" fill="128,128,0" len="890" wid="138" label="PRR 0000" loadname="mail" dest="E4" collname="o2o_Passenger" cartype="Mm" prop_str="rfid=2off547f9u3" trk="1693" dists="579"></car>
+<car t="5" id="249" rect="42955,9187,43553,10079" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5456" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=c0ftqtsom2n3" trk="1676" dists="477"></car>
+<car t="5" id="250" rect="42703,8506,43249,9410" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 7402" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=ttsdxmr5mlas" trk="1675" dists="336"></car>
+<car t="5" id="251" rect="42537,7802,43007,8714" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 3430" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="Bd" prop_str="rfid=16wxjya1u1s" trk="1674" dists="352"></car>
+<car t="5" id="252" rect="42431,6926,42841,7996" flags="4096" type="3" fill="128,128,0" len="890" wid="138" label="PRR 3777" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=ryivaj7zc80v" trk="1672" dists="233"></car>
+<car t="5" id="253" rect="42432,6045,42740,7105" flags="4096" type="3" fill="128,128,0" len="890" wid="138" label="PRR 0266" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=ueidrq2zwwuy" trk="1059" dists="10"></car>
+<car t="5" id="254" rect="42433,5313,42817,6223" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 8837" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=4g85iyzyg2j4" trk="1040" dists="447"></car>
+<car t="5" id="255" rect="42508,4592,42974,5504" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 4827" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=9upap6awxhv" trk="1036" dists="329"></car>
+<car t="5" id="256" rect="42680,4012,43164,4798" flags="4096" type="3" fill="128,128,0" len="607" wid="128" label="PRR 6328" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="X25 Adams Express Box" prop_str="rfid=ki6kshkllhem" trk="1021" dists="283"></car>
+<car t="5" id="257" rect="42875,3163,43617,4235" type="4" fill="128,128,0" len="952" wid="138" label="PRR 6965" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="Ok" prop_str="rfid=9xtz79guc4ij" trk="1017" dists="3"></car>
 </cars>
 </trn>
 <trn t="6" id="63" dspeed="0" horntype="0">
@@ -5991,32 +5991,32 @@
 <car t="5" id="134" rect="10834,17958,11692,18642" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 0027" loadname="Express" dest="BX2" collname="o2o_Passenger" cartype="Bd" prop_str="rfid=y0lfq0qoit2o" trk="2396" dists="276" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="32" dspeed="0" horntype="0">
+<trn t="6" id="32" dspeed="0" horntype="0" selcarno="0">
 <cars>
-<car t="5" id="188" rect="43328,3459,43888,4207" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 501" dest="~" collname="o2o Locomotives" cartype="K4s" prop_str="rfid=qqwvmps2siaz" trk="985" dists="622" gs="1"></car>
-<car t="5" id="189" rect="43138,3978,43628,4660" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET189" dest="~" collname="o2o Locomotives" cartype="K4s tender" prop_str="rfid=gun51h1doedx" trk="986" dists="501" gs="1"></car>
-<car t="5" id="190" rect="42921,4447,43439,5513" flags="4198400" type="3" fill="128,128,0" len="890" wid="138" label="PRR 0256" loadname="baggage" dest="W2" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=iq38m7hebv79" trk="987" dists="452" gs="1"></car>
-<car t="5" id="191" rect="42835,5318,43229,6230" flags="4194304" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5143" loadname="baggage" dest="W2" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=xpu91rh5suj3" trk="988" dists="622" gs="1"></car>
-<car t="5" id="192" rect="42829,6051,43143,7043" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2641" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=f96b0er8h3ep" trk="990" dists="136" gs="1"></car>
-<car t="5" id="193" rect="42827,6865,43227,7867" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 9326" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=4gxuv6sjpeqj" trk="1695" dists="293" gs="1"></car>
-<car t="5" id="194" rect="42923,7673,43417,8675" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7523" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=ke24qmr3wlc7" trk="1697" dists="455" gs="1"></car>
-<car t="5" id="195" rect="43116,8463,43710,9451" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2513" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=nq50cb9ud3s6" trk="1698" dists="586" gs="1"></car>
-<car t="5" id="196" rect="43413,9223,44089,10185" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 8136" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=vu2dn5kep6j6" trk="1726" dists="701" gs="1"></car>
-<car t="5" id="197" rect="43799,9943,44561,10863" flags="4194304" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7395" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=5aaqio2qodvi" trk="1843" dists="199" gs="1"></car>
+<car t="5" id="188" rect="50378,1393,51128,1947" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 501" dest="~" collname="o2o Locomotives" cartype="K4s" prop_str="rfid=qqwvmps2siaz" trk="908" dists="659" gs="1"></car>
+<car t="5" id="189" rect="49925,1195,50607,1691" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET189" dest="~" collname="o2o Locomotives" cartype="K4s tender" prop_str="rfid=gun51h1doedx" trk="909" dists="507" gs="1"></car>
+<car t="5" id="190" rect="49073,982,50139,1500" flags="4096" type="3" fill="128,128,0" len="890" wid="138" label="PRR 0256" loadname="baggage" dest="W2" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=iq38m7hebv79" trk="910" dists="478" gs="1"></car>
+<car t="5" id="191" rect="48355,924,49265,1292" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5143" loadname="baggage" dest="W2" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=xpu91rh5suj3" trk="937" dists="506" gs="1"></car>
+<car t="5" id="192" rect="47538,924,48536,1284" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2641" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=f96b0er8h3ep" trk="938" dists="592" gs="1"></car>
+<car t="5" id="193" rect="46725,976,47727,1460" type="3" fill="128,128,0" len="822" wid="141" label="PRR 9326" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=4gxuv6sjpeqj" trk="954" dists="115" gs="1"></car>
+<car t="5" id="194" rect="45945,1152,46933,1738" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7523" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=ke24qmr3wlc7" trk="955" dists="250" gs="1"></car>
+<car t="5" id="195" rect="45209,1435,46169,2115" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2513" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=nq50cb9ud3s6" trk="956" dists="261" gs="1"></car>
+<car t="5" id="196" rect="44534,1822,45450,2590" type="3" fill="128,128,0" len="822" wid="141" label="PRR 8136" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=vu2dn5kep6j6" trk="957" dists="326" gs="1"></car>
+<car t="5" id="197" rect="43968,2319,44800,3187" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7395" loadname="passengers" dest="W2" collname="o2o_Passenger" cartype="P70" prop_str="rfid=5aaqio2qodvi" trk="958" dists="498" gs="1"></car>
 </cars>
 </trn>
-<trn t="6" id="7" dspeed="0" horntype="0" selcarno="9">
+<trn t="6" id="7" dspeed="0" horntype="0">
 <cars>
 <car t="5" id="104" rect="43734,2187,44402,2875" flags="4194304" type="1" outl="128,128,128" fill="0,0,0" len="579" wid="141" label="PRR 474" dest="~" collname="o2o Locomotives" cartype="K4s" prop_str="rfid=qqwvmps2siaz" trk="977" dists="43"></car>
 <car t="5" id="105" rect="44136,1855,44770,2461" flags="4194304" type="2" outl="120,120,120" fill="0,0,0" len="497" wid="141" label="ET105" dest="~" collname="o2o Locomotives" cartype="K4s tender" prop_str="rfid=gun51h1doedx" trk="976" dists="520"></car>
-<car t="5" id="172" rect="44509,1331,45483,2129" flags="4194304" type="3" fill="128,128,0" len="890" wid="138" label="PRR 4286" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=iq38m7hebv79" trk="975" dists="478"></car>
-<car t="5" id="173" rect="45242,1009,46130,1617" flags="4198400" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5891" loadname="baggage" dest="E4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=xpu91rh5suj3" trk="974" dists="391"></car>
-<car t="5" id="171" rect="45907,739,46901,1303" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 4247" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=f96b0er8h3ep" trk="972" dists="279"></car>
-<car t="5" id="170" rect="46695,577,47697,1047" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 6379" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=4gxuv6sjpeqj" trk="971" dists="169"></car>
-<car t="5" id="169" rect="47512,537,48508,887" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7831" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=ke24qmr3wlc7" trk="625" dists="767"></car>
-<car t="5" id="168" rect="48329,535,49329,911" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7767" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=nq50cb9ud3s6" trk="623" dists="641"></car>
-<car t="5" id="167" rect="49137,602,50139,1090" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 3096" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=vu2dn5kep6j6" trk="622" dists="414"></car>
-<car t="5" id="136" rect="49929,788,50919,1374" flags="4198400" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2801" loadname="passengers" dest="E4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=5aaqio2qodvi" trk="621" dists="321"></car>
+<car t="5" id="172" rect="44509,1331,45483,2129" type="3" fill="128,128,0" len="890" wid="138" label="PRR 4286" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="Bn" prop_str="rfid=iq38m7hebv79" trk="975" dists="478"></car>
+<car t="5" id="173" rect="45242,1009,46130,1617" flags="4096" type="3" fill="128,128,0" len="731" wid="138" label="PRR 5891" loadname="baggage" dest="W4" collname="o2o_Passenger" cartype="B60b" prop_str="rfid=xpu91rh5suj3" trk="974" dists="391"></car>
+<car t="5" id="171" rect="45907,739,46901,1303" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 4247" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=f96b0er8h3ep" trk="972" dists="279"></car>
+<car t="5" id="170" rect="46695,577,47697,1047" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 6379" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=4gxuv6sjpeqj" trk="971" dists="169"></car>
+<car t="5" id="169" rect="47512,537,48508,887" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7831" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=ke24qmr3wlc7" trk="625" dists="767"></car>
+<car t="5" id="168" rect="48329,535,49329,911" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 7767" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=nq50cb9ud3s6" trk="623" dists="641"></car>
+<car t="5" id="167" rect="49137,602,50139,1090" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 3096" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=vu2dn5kep6j6" trk="622" dists="414"></car>
+<car t="5" id="136" rect="49929,788,50919,1374" flags="4096" type="3" fill="128,128,0" len="822" wid="141" label="PRR 2801" loadname="passengers" dest="W4" collname="o2o_Passenger" cartype="P70" prop_str="rfid=5aaqio2qodvi" trk="621" dists="321"></car>
 </cars>
 </trn>
 <trn t="6" id="62" dspeed="0" horntype="0">
@@ -6497,7 +6497,7 @@ View Refresh]]></action>
 <roadstyles>
 <roadstyle bktype="1" fill="R:0,G:0,B:0" id="1" name="Default" rwid="20" showt="0" tlen="110" twid="10" tspc="20" tcolor="R:102,G:51,B:0" trkcol="R:0,G:0,B:0" trkwid="2" railcol="R:0,G:0,B:0" railsep="0" railwid="2" showrb="0" showra="0" showtr="0"></roadstyle>
 </roadstyles>
-<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0955368" ctr="x:45339,y:6417" vtype="596"></winview>
+<winview length="44" flags="2" showcmd="3" minpos="x:0,y:1187" maxpos="x:-8,y:-31" normpos="l:26,t:26,r:1246,b:585" zoom="0.0955368" ctr="x:38073,y:23420" vtype="596"></winview>
 <scripts>
 <script id="3" flags="6" cmdix="4195" wndrect="0,23,450,277"><![CDATA[* Master script on layout Doodle 18g
 
@@ -7369,7 +7369,7 @@ MW_LENGTH 3]]></script>
 <notes>
 <note autofit="1">
 <scn t="16" id="1" rect="938,190,1584,310" otype="9" text=" " bktype="1" fill="R:213,G:214,B:186" bktype_l="0" fill_l="R:0,G:0,B:128" font="90,400,0,0,Courier New" txtcolor="R:0,G:0,B:0" align="0"></scn>
-<wndrect>183,5,303,651</wndrect>
+<wndrect>183,5,498,651</wndrect>
 </note>
 </notes>
 </layout>
